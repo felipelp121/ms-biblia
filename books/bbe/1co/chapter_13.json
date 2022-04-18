@@ -1,0 +1,64 @@
+{
+  "book": {
+    "abbrev": { "pt": "1co", "en": "1co" },
+    "name": "1ª Coríntios",
+    "author": "Paulo",
+    "group": "Cartas",
+    "version": "bbe"
+  },
+  "chapter": { "number": 13, "verses": 13 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "If I make use of the tongues of men and of angels, and have not love, I am like sounding brass, or a loud-tongued bell."
+    },
+    {
+      "number": 2,
+      "text": "And if I have a prophet&#x27;s power, and have knowledge of all secret things; and if I have all faith, by which mountains may be moved from their place, but have not love, I am nothing."
+    },
+    {
+      "number": 3,
+      "text": "And if I give all my goods to the poor, and if I give my body to be burned, but have not love, it is of no profit to me."
+    },
+    {
+      "number": 4,
+      "text": "Love is never tired of waiting; love is kind; love has no envy; love has no high opinion of itself, love has no pride;"
+    },
+    {
+      "number": 5,
+      "text": "Love&#x27;s ways are ever fair, it takes no thought for itself; it is not quickly made angry, it takes no account of evil;"
+    },
+    {
+      "number": 6,
+      "text": "It takes no pleasure in wrongdoing, but has joy in what is true;"
+    },
+    {
+      "number": 7,
+      "text": "Love has the power of undergoing all things, having faith in all things, hoping all things."
+    },
+    {
+      "number": 8,
+      "text": "Though the prophet&#x27;s word may come to an end, tongues come to nothing, and knowledge have no more value, love has no end."
+    },
+    {
+      "number": 9,
+      "text": "For our knowledge is only in part, and the prophet&#x27;s word gives only a part of what is true:"
+    },
+    {
+      "number": 10,
+      "text": "But when that which is complete is come, then that which is in part will be no longer necessary."
+    },
+    {
+      "number": 11,
+      "text": "When I was a child, I made use of a child&#x27;s language, I had a child&#x27;s feelings and a child&#x27;s thoughts: now that I am a man, I have put away the things of a child."
+    },
+    {
+      "number": 12,
+      "text": "For now we see things in a glass, darkly; but then face to face: now my knowledge is in part; then it will be complete, even as God&#x27;s knowledge of me."
+    },
+    {
+      "number": 13,
+      "text": "But now we still have faith, hope, love, these three; and the greatest of these is love."
+    }
+  ]
+}

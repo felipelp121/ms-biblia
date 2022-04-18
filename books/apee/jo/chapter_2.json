@@ -1,0 +1,109 @@
+{
+  "book": {
+    "abbrev": { "pt": "jo", "en": "jo" },
+    "name": "João",
+    "author": "João",
+    "group": "Evangelhos",
+    "version": "apee"
+  },
+  "chapter": { "number": 2, "verses": 25 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Trois jours après, on faisait des noces à Cana en Galilée, et la mère de Jésus y était."
+    },
+    {
+      "number": 2,
+      "text": "Et Jésus fut aussi convié aux noces avec ses disciples."
+    },
+    {
+      "number": 3,
+      "text": "Le vin ayant manqué, la mère de Jésus lui dit: Ils n'ont plus de vin."
+    },
+    {
+      "number": 4,
+      "text": "Jésus lui répondit: Qu'est-ce cela pour moi et toi, femme? Mon heure n'est pas encore venue."
+    },
+    {
+      "number": 5,
+      "text": "Sa mère dit à ceux qui servaient: Faites tout ce qu'il vous dira."
+    },
+    {
+      "number": 6,
+      "text": "Or, il y avait là six vaisseaux de pierre, placés pour la purification baptismale des Juifs, et contenant chacun deux ou trois mesures."
+    },
+    {
+      "number": 7,
+      "text": "Jésus leur dit: Remplissez d'eau ces vaisseaux; et ils les remplirent jusqu'au haut."
+    },
+    {
+      "number": 8,
+      "text": "Et il leur dit: Puisez-en maintenant, et portez-en au chef du festin. Et ils le firent."
+    },
+    {
+      "number": 9,
+      "text": "Quand le chef du festin eut goûté l'eau changée en vin, or il ne savait pas d'où venait ce vin, mais les serviteurs qui avaient puisé l'eau le savaient, il appela l'époux,"
+    },
+    {
+      "number": 10,
+      "text": "Et lui dit: Tout homme sert d'abord le bon vin, et ensuite le moins bon, après qu'on a beaucoup bu; mais toi, tu as gardé le bon vin jusqu'à présent."
+    },
+    {
+      "number": 11,
+      "text": "Jésus fit ce premier miracle à Cana de Galilée, et il manifesta sa gloire; et ses disciples crurent en lui."
+    },
+    {
+      "number": 12,
+      "text": "Après cela, il descendit à Capernaüm avec sa mère, ses frères et ses disciples; et ils n'y demeurèrent que peu de jours;"
+    },
+    {
+      "number": 13,
+      "text": "Et la Pâque des Juifs était proche, et Jésus monta à Jérusalem."
+    },
+    {
+      "number": 14,
+      "text": "Et il trouva dans le temple ceux qui vendaient des boeufs, des brebis et des pigeons, avec les changeurs qui y étaient assis."
+    },
+    {
+      "number": 15,
+      "text": "Et ayant fait un fouet de cordes, il les chassa tous du temple, et les brebis et les boeufs; il répandit la monnaie des changeurs, et renversa leurs tables."
+    },
+    {
+      "number": 16,
+      "text": "Et il dit à ceux qui vendaient les pigeons: Ôtez cela d'ici, et ne faites pas de la maison de mon Père une maison de marchandage."
+    },
+    {
+      "number": 17,
+      "text": "Alors ses disciples se souvinrent qu'il est écrit: Le zèle de ta maison m'a dévoré."
+    },
+    {
+      "number": 18,
+      "text": "Les Juifs, prenant la parole, lui dirent: Quel signe nous montres-tu pour agir de la sorte?"
+    },
+    {
+      "number": 19,
+      "text": "Jésus répondit et leur dit: Abattez ce Temple, et je le relèverai dans trois jours."
+    },
+    {
+      "number": 20,
+      "text": "Les Juifs lui dirent: On a été quarante-six ans à bâtir ce temple, et tu le relèveras dans trois jours?"
+    },
+    { "number": 21, "text": "Mais il parlait du Temple de son corps." },
+    {
+      "number": 22,
+      "text": "Après donc qu'il fut ressuscité des morts, ses disciples se souvinrent qu'il leur avait dit cela; et ils crurent à l'Écriture et à cette parole que Jésus avait dite."
+    },
+    {
+      "number": 23,
+      "text": "Pendant qu'il était à Jérusalem, à la fête de Pâque, plusieurs crurent en son nom, voyant les miracles qu'il faisait."
+    },
+    {
+      "number": 24,
+      "text": "Mais Jésus ne se fiait point à eux, parce qu'il les connaissait tous,"
+    },
+    {
+      "number": 25,
+      "text": "Et qu'il n'avait pas besoin qu'on lui rendît témoignage d'aucun homme, car il savait de lui-même ce qui était dans l'homme."
+    }
+  ]
+}

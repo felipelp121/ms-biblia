@@ -1,0 +1,104 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "apee"
+  },
+  "chapter": { "number": 94, "verses": 23 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Dieu des vengeances, Éternel, Dieu des vengeances, fais briller ta splendeur!"
+    },
+    {
+      "number": 2,
+      "text": "Élève-toi, juge de la terre, rends la récompense aux orgueilleux!"
+    },
+    {
+      "number": 3,
+      "text": "Jusqu'à quand les méchants, ô Éternel, jusques à quand les méchants triompheront-ils?"
+    },
+    {
+      "number": 4,
+      "text": "Jusqu'à quand tous les ouvriers d'iniquité se répandront-ils en discours insolents et se glorifieront-ils?"
+    },
+    {
+      "number": 5,
+      "text": "Éternel, ils écrasent ton peuple, et ils oppriment ton héritage."
+    },
+    {
+      "number": 6,
+      "text": "Ils tuent la veuve et l'étranger, et mettent à mort les orphelins."
+    },
+    {
+      "number": 7,
+      "text": "Et ils disent: L'Éternel ne le voit pas, le Dieu de Jacob n'y prend pas garde."
+    },
+    {
+      "number": 8,
+      "text": "Prenez garde, vous les plus stupides du peuple! Insensés, quand serez-vous intelligents?"
+    },
+    {
+      "number": 9,
+      "text": "Celui qui plante l'oreille n'entendra-t-il pas? Celui qui forme l'œil ne verra-t-il pas?"
+    },
+    {
+      "number": 10,
+      "text": "Celui qui châtie les nations, ne punira-t-il pas, lui qui enseigne aux hommes la science?"
+    },
+    {
+      "number": 11,
+      "text": "L'Éternel connaît que les pensées de l'homme ne sont que vanité."
+    },
+    {
+      "number": 12,
+      "text": "Heureux l'homme que tu châties, ô Éternel, et que tu instruis par ta loi,"
+    },
+    {
+      "number": 13,
+      "text": "Pour le mettre à l'abri des jours d'adversité, jusqu'à ce que la fosse soit creusée pour le méchant."
+    },
+    {
+      "number": 14,
+      "text": "Car l'Éternel ne délaisse point son peuple et n'abandonne point son héritage."
+    },
+    {
+      "number": 15,
+      "text": "Car le jugement sera conforme à la justice; et tous ceux qui sont droits de cœur le suivront."
+    },
+    {
+      "number": 16,
+      "text": "Qui se lèvera pour moi contre les méchants? Qui m'assistera contre les ouvriers d'iniquité?"
+    },
+    {
+      "number": 17,
+      "text": "Si l'Éternel n'eût été mon secours, bientôt mon âme eût habité le lieu du silence."
+    },
+    {
+      "number": 18,
+      "text": "Lorsque j'ai dit: Mon pied a glissé, ta bonté, ô Éternel, m'a soutenu."
+    },
+    {
+      "number": 19,
+      "text": "Quand j'avais beaucoup de pensées au-dedans de moi, tes consolations ont réjoui mon âme."
+    },
+    {
+      "number": 20,
+      "text": "Serais-tu l'allié du trône de méchanceté, qui forge des injustices contre la loi?"
+    },
+    {
+      "number": 21,
+      "text": "Ils s'assemblent contre l'âme du juste et condamnent le sang innocent."
+    },
+    {
+      "number": 22,
+      "text": "Mais l'Éternel est ma haute retraite; mon Dieu est le rocher de mon refuge."
+    },
+    {
+      "number": 23,
+      "text": "Il fera retomber sur eux leur iniquité, et les détruira par leur propre méchanceté; l'Éternel notre Dieu les détruira."
+    }
+  ]
+}

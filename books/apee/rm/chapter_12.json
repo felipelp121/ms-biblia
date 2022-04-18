@@ -1,0 +1,96 @@
+{
+  "book": {
+    "abbrev": { "pt": "rm", "en": "rm" },
+    "name": "Romanos",
+    "author": "Paulo",
+    "group": "Cartas",
+    "version": "apee"
+  },
+  "chapter": { "number": 12, "verses": 21 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Je vous exhorte donc, frères, par les compassions de Dieu, à offrir vos corps en sacrifice vivant, saint, agréable à Dieu, c'est votre culte raisonnable."
+    },
+    {
+      "number": 2,
+      "text": "Et ne vous conformez point au présent siècle, mais soyez transformés par le changement de votre raisonnement, afin que vous éprouviez que la volonté de Dieu est bonne, agréable et parfaite."
+    },
+    {
+      "number": 3,
+      "text": "Or, par la grâce qui m'a été donnée, je dis à chacun d'entre vous, de n'avoir pas de lui-même une plus haute opinion qu'il ne doit, mais d'avoir des sentiments modestes, selon la mesure de la foi que Dieu a départie à chacun."
+    },
+    {
+      "number": 4,
+      "text": "Car, comme nous avons plusieurs membres dans un seul corps, et que tous les membres n'ont pas une même fonction;"
+    },
+    {
+      "number": 5,
+      "text": "Ainsi nous, qui sommes plusieurs, nous sommes un seul corps en Christ; et nous sommes chacun en particulier les membres les uns des autres,"
+    },
+    {
+      "number": 6,
+      "text": "Ayant toutefois des dons différents, selon la grâce qui nous a été donnée; soit la prophétie, pour l'exercer selon la mesure de la foi;"
+    },
+    {
+      "number": 7,
+      "text": "Soit le ministère, pour s'attacher au ministère; soit l'enseignement, pour s'appliquer à l'enseignement; soit l'exhortation, pour exhorter."
+    },
+    {
+      "number": 8,
+      "text": "Celui qui distribue les aumônes, qu'il le fasse avec libéralité; celui qui préside, qu'il préside avec soin; celui qui exerce les oeuvres de miséricorde, qu'il le fasse avec joie."
+    },
+    {
+      "number": 9,
+      "text": "Que la charité soit sans hypocrisie. Ayez le mal en horreur, attachez-vous fortement au bien."
+    },
+    {
+      "number": 10,
+      "text": "Quant à l'amour fraternel, soyez pleins de tendresse les uns pour les autres; vous estimant l’un l’autre par honneur."
+    },
+    {
+      "number": 11,
+      "text": "Quant au zèle, ne soyez point paresseux. Soyez fervents d'esprit; servez le Seigneur."
+    },
+    {
+      "number": 12,
+      "text": "Soyez joyeux dans l'espérance, patients dans l'affliction, persévérants dans la prière."
+    },
+    {
+      "number": 13,
+      "text": "Prenez part aux nécessités des saints; empressez-vous à exercer l'hospitalité."
+    },
+    {
+      "number": 14,
+      "text": "Bénissez ceux qui vous persécutent; bénissez, et ne maudissez point."
+    },
+    {
+      "number": 15,
+      "text": "Réjouissez-vous avec ceux qui se réjouissent, et pleurez avec ceux qui pleurent."
+    },
+    {
+      "number": 16,
+      "text": "Ayez les mêmes sentiments entre vous; ne considérez point les positions d'éminences, mais accommodez les hommes humbles; ne soyez pas sages à vos propres yeux."
+    },
+    {
+      "number": 17,
+      "text": "Ne rendez à personne le mal pour le mal; attachez-vous à ce qui est bien devant tous les hommes."
+    },
+    {
+      "number": 18,
+      "text": "S'il se peut faire, et autant qu'il dépend de vous, soyez en paix avec tous les hommes."
+    },
+    {
+      "number": 19,
+      "text": "Ne vous vengez point vous-mêmes, bien-aimés, mais laissez agir la colère de Dieu; car il est écrit: A moi la vengeance; c'est moi qui rétribuerai, dit le Seigneur."
+    },
+    {
+      "number": 20,
+      "text": "Si donc ton ennemi a faim, donne-lui à manger; s'il a soif, donne-lui à boire; car en faisant cela, tu lui amasseras des charbons de feu sur la tête."
+    },
+    {
+      "number": 21,
+      "text": "Ne te laisse point surmonter par le mal; mais surmonte le mal par le bien."
+    }
+  ]
+}

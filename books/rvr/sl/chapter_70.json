@@ -1,0 +1,32 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "rvr"
+  },
+  "chapter": { "number": 70, "verses": 5 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "OH Dios, acude á librarme; Apresúrate, oh Dios, á socorrerme."
+    },
+    {
+      "number": 2,
+      "text": "Sean avergonzados y confusos Los que buscan mi vida; Sean vueltos atrás y avergonzados Los que mi mal desean."
+    },
+    {
+      "number": 3,
+      "text": "Sean vueltos, en pago de su afrenta hecha, Los que dicen: ¡Ah! ¡ah!"
+    },
+    {
+      "number": 4,
+      "text": "Gócense y alégrense en ti todos los que te buscan; Y digan siempre los que aman tu salud: Engrandecido sea Dios."
+    },
+    {
+      "number": 5,
+      "text": "Yo estoy afligido y menesteroso; Apresúrate á mí, oh Dios: Ayuda mía y mi libertador eres tú; Oh Jehová, no te detengas."
+    }
+  ]
+}

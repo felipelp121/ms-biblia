@@ -1,0 +1,61 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "rvr"
+  },
+  "chapter": { "number": 65, "verses": 13 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "A TI es plácida la alabanza en Sión, oh Dios: Y á ti se pagarán los votos."
+    },
+    { "number": 2, "text": "Tú oyes la oración: A ti vendrá toda carne." },
+    {
+      "number": 3,
+      "text": "Palabras de iniquidades me sobrepujaron: Mas nuestras rebeliones tú las perdonarás."
+    },
+    {
+      "number": 4,
+      "text": "Dichoso el que tú escogieres, é hicieres llegar á ti, Para que habite en tus atrios: Seremos saciados del bien de tu casa, De tu santo templo."
+    },
+    {
+      "number": 5,
+      "text": "Con tremendas cosas, en justicia, nos responderás tú, Oh Dios de nuestra salud, Esperanza de todos los términos de la tierra, Y de los más remotos confines de la mar."
+    },
+    {
+      "number": 6,
+      "text": "Tú, el que afirma los montes con su potencia, Ceñido de valentía:"
+    },
+    {
+      "number": 7,
+      "text": "El que amansa el estruendo de los mares, el estruendo de sus ondas, Y el alboroto de las gentes."
+    },
+    {
+      "number": 8,
+      "text": "Por tanto los habitadores de los fines de la tierra temen de tus maravillas. Tú haces alegrar las salidas de la mañana y de la tarde."
+    },
+    {
+      "number": 9,
+      "text": "Visitas la tierra, y la riegas: En gran manera la enriqueces Con el río de Dios, lleno de aguas: Preparas el grano de ellos, cuando así la dispones."
+    },
+    {
+      "number": 10,
+      "text": "Haces se empapen sus surcos, Haces descender sus canales: Ablándasla con lluvias, Bendices sus renuevos."
+    },
+    {
+      "number": 11,
+      "text": "Tú coronas el año de tus bienes; Y tus nubes destilan grosura."
+    },
+    {
+      "number": 12,
+      "text": "Destilan sobre las estancias del desierto; Y los collados se ciñen de alegría."
+    },
+    {
+      "number": 13,
+      "text": "Vístense los llanos de manadas, Y los valles se cubren de grano: Dan voces de júbilo, y aun cantan."
+    }
+  ]
+}

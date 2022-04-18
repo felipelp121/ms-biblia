@@ -1,0 +1,105 @@
+{
+  "book": {
+    "abbrev": { "pt": "gl", "en": "gl" },
+    "name": "Gálatas",
+    "author": "Paulo",
+    "group": "Cartas",
+    "version": "apee"
+  },
+  "chapter": { "number": 1, "verses": 24 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Paul, apôtre, non de la part des hommes, ni par un homme, mais par Jésus-Christ, c’est à dire Dieu le Père, qui l'a ressuscité des morts;"
+    },
+    {
+      "number": 2,
+      "text": "Et tous les frères qui sont avec moi, aux Églises de Galatie."
+    },
+    {
+      "number": 3,
+      "text": "La grâce et la paix vous soient données de la part de Dieu le Père, le Seigneur de nous tous, JÉSUS-CHRIST,"
+    },
+    {
+      "number": 4,
+      "text": "Qui s'est donné lui-même pour nos péchés, afin de nous retirer de ce siècle corrompu, selon la volonté de Dieu notre Père,"
+    },
+    {
+      "number": 5,
+      "text": "Auquel soit gloire aux siècles des siècles! Amen."
+    },
+    {
+      "number": 6,
+      "text": "Je m'étonne que vous abandonniez si rapidement celui qui vous avait appelés à la grâce de Christ, pour passer à un autre évangile;"
+    },
+    {
+      "number": 7,
+      "text": "Non qu'il y en ait un autre, mais il y a des gens qui vous troublent, et qui veulent inverser l'Évangile de Christ."
+    },
+    {
+      "number": 8,
+      "text": "Mais quand nous-mêmes, ou un ange du ciel vous annoncerait un évangile différent de celui que nous vous avons annoncé, qu'il soit maudit!"
+    },
+    {
+      "number": 9,
+      "text": "Comme nous l'avons déjà dit, je le dis encore maintenant: Si quelqu'un vous annonce un évangile différent de celui que vous avez reçu, qu'il soit damné éternellement!"
+    },
+    {
+      "number": 10,
+      "text": "Car, est-ce les hommes que je prêche, ou Dieu? ou est-ce que je cherche à plaire aux hommes? Si je plaisais aux hommes, je ne serais pas un serviteur de Christ."
+    },
+    {
+      "number": 11,
+      "text": "Je vous le déclare donc, frères: l'Évangile que j'ai annoncé n'est pas de l'homme;"
+    },
+    {
+      "number": 12,
+      "text": "Car je ne l'ai ni reçu ni appris d'un homme, mais par une révélation de Jésus-Christ."
+    },
+    {
+      "number": 13,
+      "text": "Vous avez, en effet, entendu dire quelle était autrefois ma conduite dans le judaïsme; comment je persécutais à profusion l'Église de Dieu, et la ravageais;"
+    },
+    {
+      "number": 14,
+      "text": "Et comment j'étais plus avancé dans le judaïsme que beaucoup de ceux de mon âge dans ma nation, étant le plus ardent zélateur des traditions de mes pères."
+    },
+    {
+      "number": 15,
+      "text": "Mais quand il plut à Dieu, qui m'avait choisi dès le sein de ma mère, et qui m'a appelé par sa grâce,"
+    },
+    {
+      "number": 16,
+      "text": "De révéler son Fils en moi, afin que je l'annonce parmi les Gentils; aussitôt, je ne consultai ni la chair ni le sang,"
+    },
+    {
+      "number": 17,
+      "text": "Et je ne montai point à Jérusalem vers ceux qui étaient apôtres avant moi; mais je m'en allai en Arabie, et je revins encore à Damas."
+    },
+    {
+      "number": 18,
+      "text": "Ensuite, trois ans après, je montai à Jérusalem, pour y visiter Pierre; et je demeurai chez lui quinze jours;"
+    },
+    {
+      "number": 19,
+      "text": "Mais je ne vis aucun des autres apôtres, sinon Jacques, le frère du Seigneur."
+    },
+    {
+      "number": 20,
+      "text": "Or, dans les choses que je vous écris, voici, devant Dieu, je ne mens point."
+    },
+    {
+      "number": 21,
+      "text": "J'allai ensuite dans les pays de Syrie et de Cilicie;"
+    },
+    {
+      "number": 22,
+      "text": "Mais j'étais inconnu de visage aux Églises de Judée qui sont en Christ."
+    },
+    {
+      "number": 23,
+      "text": "Elles avaient seulement entendu dire: Celui qui autrefois nous persécutait, annonce maintenant la foi, que jadis il ravageait."
+    },
+    { "number": 24, "text": "Et elles glorifiaient Dieu à cause de moi." }
+  ]
+}

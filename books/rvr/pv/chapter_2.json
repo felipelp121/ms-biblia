@@ -1,0 +1,100 @@
+{
+  "book": {
+    "abbrev": { "pt": "pv", "en": "prv" },
+    "name": "Provérbios",
+    "author": "Salomão",
+    "group": "Poéticos",
+    "version": "rvr"
+  },
+  "chapter": { "number": 2, "verses": 22 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "HIJO mío, si tomares mis palabras, Y mis mandamientos guardares dentro de ti,"
+    },
+    {
+      "number": 2,
+      "text": "Haciendo estar atento tu oído á la sabiduría; Si inclinares tu corazón á la prudencia;"
+    },
+    {
+      "number": 3,
+      "text": "Si clamares á la inteligencia, Y á la prudencia dieres tu voz;"
+    },
+    {
+      "number": 4,
+      "text": "Si como á la plata la buscares, Y la escudriñares como á tesoros;"
+    },
+    {
+      "number": 5,
+      "text": "Entonces entenderás el temor de Jehová, Y hallarás el conocimiento de Dios."
+    },
+    {
+      "number": 6,
+      "text": "Porque Jehová da la sabiduría, Y de su boca viene el conocimiento y la inteligencia."
+    },
+    {
+      "number": 7,
+      "text": "El provee de sólida sabiduría á los rectos: Es escudo á los que caminan rectamente."
+    },
+    {
+      "number": 8,
+      "text": "Es el que guarda las veredas del juicio, Y preserva el camino de sus santos."
+    },
+    {
+      "number": 9,
+      "text": "Entonces entenderás justicia, juicio, Y equidad, y todo buen camino."
+    },
+    {
+      "number": 10,
+      "text": "Cuando la sabiduría entrare en tu corazón, Y la ciencia fuere dulce á tu alma,"
+    },
+    {
+      "number": 11,
+      "text": "El consejo te guardará, Te preservará la inteligencia:"
+    },
+    {
+      "number": 12,
+      "text": "Para librarte del mal camino, De los hombres que hablan perversidades;"
+    },
+    {
+      "number": 13,
+      "text": "Que dejan las veredas derechas, Por andar en caminos tenebrosos;"
+    },
+    {
+      "number": 14,
+      "text": "Que se alegran haciendo mal, Que se huelgan en las perversidades del vicio;"
+    },
+    {
+      "number": 15,
+      "text": "Cuyas veredas son torcidas, Y torcidos sus caminos."
+    },
+    {
+      "number": 16,
+      "text": "Para librarte de la mujer extraña, De la ajena que halaga con sus palabras;"
+    },
+    {
+      "number": 17,
+      "text": "Que desampara el príncipe de su mocedad, Y se olvida del pacto de su Dios."
+    },
+    {
+      "number": 18,
+      "text": "Por lo cual su casa está inclinada á la muerte, Y sus veredas hacia los muertos:"
+    },
+    {
+      "number": 19,
+      "text": "Todos los que á ella entraren, no volverán, Ni tomarán las veredas de la vida."
+    },
+    {
+      "number": 20,
+      "text": "Para que andes por el camino de los buenos, Y guardes las veredas de los justos."
+    },
+    {
+      "number": 21,
+      "text": "Porque los rectos habitarán la tierra, Y los perfectos permanecerán en ella;"
+    },
+    {
+      "number": 22,
+      "text": "Mas los impíos serán cortados de la tierra, Y los prevaricadores serán de ella desarraigados."
+    }
+  ]
+}

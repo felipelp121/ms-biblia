@@ -1,0 +1,152 @@
+{
+  "book": {
+    "abbrev": { "pt": "lc", "en": "lk" },
+    "name": "Lucas",
+    "author": "Lucas",
+    "group": "Evangelhos",
+    "version": "apee"
+  },
+  "chapter": { "number": 3, "verses": 38 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "La quinzième année de l'empire de Tibère César, Ponce Pilate étant gouverneur de la Judée, Hérode, tétrarque de la Galilée, Philippe son frère, tétrarque de l'Iturée et de la province de la Trachonite, et Lysanias; tétrarque d'Abylène,"
+    },
+    {
+      "number": 2,
+      "text": "Sous la souveraine sacrificature d'Anne et de Caïphe, la Parole de Dieu fut adressée à Jean, fils de Zacharie, dans le désert."
+    },
+    {
+      "number": 3,
+      "text": "Et il vint dans tout le pays des environs du Jourdain, prêchant la consécration de la repentance, pour la rémission des péchés;"
+    },
+    {
+      "number": 4,
+      "text": "Selon qu'il est écrit au livre des paroles du prophète Ésaïe: La voix de celui qui crie dans le désert est: Préparez le chemin de l'Éternel, aplanissez ses sentiers."
+    },
+    {
+      "number": 5,
+      "text": "Toute vallée sera comblée, et toute montagne et toute colline sera abaissée, les chemins tortueux seront redressés, et les chemins raboteux seront aplanis;"
+    },
+    { "number": 6, "text": "Et toute chair verra le salut de Dieu." },
+    {
+      "number": 7,
+      "text": "Il disait donc au peuple qui venait pour être lavé rituellement par lui: Race de vipères, qui vous a appris à fuir la colère à venir?"
+    },
+    {
+      "number": 8,
+      "text": "Produisez donc des fruits convenables à la repentance; et ne vous mettez point à dire en vous-mêmes: Nous avons Abraham pour père; car je vous dis que Dieu peut faire naître de ces pierres des enfants à Abraham."
+    },
+    {
+      "number": 9,
+      "text": "Or, la hache est déjà mise à la racine des arbres. Tout arbre donc qui ne produit pas de bon fruit va être coupé et jeté au feu."
+    },
+    {
+      "number": 10,
+      "text": "Alors le peuple lui demanda: Que ferons-nous donc?"
+    },
+    {
+      "number": 11,
+      "text": "Il leur répondit: Que celui qui a deux habits en donne à celui qui n'en a point; et que celui qui a de la nourriture en fasse de même."
+    },
+    { "number": 12, "text": "Il vint aussi des péagers pour être consacrés;" },
+    {
+      "number": 13,
+      "text": "Et ils lui dirent: Maître, que ferons-nous? Et il leur dit: N'exigez rien au-delà de ce qui vous a été ordonné."
+    },
+    {
+      "number": 14,
+      "text": "Et les soldats lui demandèrent aussi: Et nous, que ferons-nous? Il leur dit: N'usez point de violence ni de tromperie envers personne, mais contentez vous de votre paye."
+    },
+    {
+      "number": 15,
+      "text": "Et comme le peuple était dans l'attente, et que tous se demandaient en leurs cœurs si Jean ne serait point le Christ,"
+    },
+    {
+      "number": 16,
+      "text": "Jean prit la parole et dit à tous: Pour moi, je vous consacre d'eau; mais il en vient un plus puissant que moi; et je ne suis pas digne de délier la courroie de ses sandales; c'est lui qui vous introduira dans le feu du Saint-Esprit."
+    },
+    {
+      "number": 17,
+      "text": "Il a son van dans ses mains, il nettoiera parfaitement son aire, et il amassera le froment dans son grenier; mais il brûlera entièrement la paille, au feu qui ne s'éteint point."
+    },
+    {
+      "number": 18,
+      "text": "Il adressait encore plusieurs autres exhortations au peuple, en lui annonçant l'Évangile."
+    },
+    {
+      "number": 19,
+      "text": "Mais Hérode le tétrarque ayant été repris par Jean, au sujet d'Hérodias, femme de Philippe son frère, et de toutes les méchantes actions qu'il avait faites,"
+    },
+    {
+      "number": 20,
+      "text": "Ajouta encore à toutes les autres celle de faire mettre Jean en prison."
+    },
+    {
+      "number": 21,
+      "text": "Or, comme tout le peuple se faisait consacrer, Jésus fut aussi consacré; et pendant qu'il priait, le ciel s'ouvrit,"
+    },
+    {
+      "number": 22,
+      "text": "Et le Saint-Esprit s'abaissa sur lui sous une forme corporelle, comme fait une colombe; et il vint une voix du ciel, qui dit: Tu es mon Fils bien-aimé, en qui JE SUIS pleinement satisfait."
+    },
+    {
+      "number": 23,
+      "text": "Et Jésus était âgé d'environ trente ans lors de sa consécration comme Souverain Sacrificateur, et il était, comme on le croyait d'être, fils de Joseph, d'Héli,"
+    },
+    {
+      "number": 24,
+      "text": "De Matthat, de Lévi, de Melchi, de Janna, de Joseph,"
+    },
+    {
+      "number": 25,
+      "text": "De Matthathie, d'Amos, de Nahum, d'Héli, de Naggé,"
+    },
+    {
+      "number": 26,
+      "text": "De Maath, de Matthathie, de Semeï, de Joseph, de Juda,"
+    },
+    {
+      "number": 27,
+      "text": "De Johanna, de Rhésa, de Zorobabel, de Salathiel, de Néri,"
+    },
+    { "number": 28, "text": "De Melchi, d'Addi, de Cosam, d'Elmodam, de Her," },
+    {
+      "number": 29,
+      "text": "De José, d'Éliézer, de Jorim, de Matthat, de Lévi,"
+    },
+    {
+      "number": 30,
+      "text": "De Siméon, de Juda, de Joseph, de Jonan, d'Éliakim,"
+    },
+    {
+      "number": 31,
+      "text": "De Méléa, de Maïnan, de Matthatha, de Nathan, de David,"
+    },
+    {
+      "number": 32,
+      "text": "De Jessé, d'Obed, de Booz, de Salomon, de Naasson,"
+    },
+    {
+      "number": 33,
+      "text": "D'Aminadab, d'Aram, d'Esrom, de Pharez, de Juda,"
+    },
+    {
+      "number": 34,
+      "text": "De Jacob, d'Isaac, d'Abraham, de Tharé, de Nachor,"
+    },
+    {
+      "number": 35,
+      "text": "De Sarug, de Ragaü, de Phaleg, de Héber, de Sala,"
+    },
+    {
+      "number": 36,
+      "text": "De Caïnan, d'Arphaxad, de Sem, de Noé, de Lamech,"
+    },
+    {
+      "number": 37,
+      "text": "De Mathusala, d'Hénoch, de Jared, de Malaléel, de Caïnan,"
+    },
+    { "number": 38, "text": "D'Énos, de Seth, d'Adam, fils de Dieu." }
+  ]
+}

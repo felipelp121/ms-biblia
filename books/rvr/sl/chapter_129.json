@@ -1,0 +1,44 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "rvr"
+  },
+  "chapter": { "number": 129, "verses": 8 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "MUCHO me han angustiado desde mi juventud, Puede decir ahora Israel;"
+    },
+    {
+      "number": 2,
+      "text": "Mucho me han angustiado desde mi juventud; Mas no prevalecieron contra mí."
+    },
+    {
+      "number": 3,
+      "text": "Sobre mis espaldas araron los aradores: Hicieron largos surcos."
+    },
+    {
+      "number": 4,
+      "text": "Jehová es justo; Cortó las coyundas de los impíos."
+    },
+    {
+      "number": 5,
+      "text": "Serán avergonzados y vueltos atrás Todos los que aborrecen á Sión."
+    },
+    {
+      "number": 6,
+      "text": "Serán como la hierba de los tejados, Que se seca antes que crezca:"
+    },
+    {
+      "number": 7,
+      "text": "De la cual no hinchió segador su mano, Ni sus brazos el que hace gavillas."
+    },
+    {
+      "number": 8,
+      "text": "Ni dijeron los que pasaban: Bendición de Jehová sea sobre vosotros; Os bendecimos en el nombre de Jehová."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "book": {
+    "abbrev": { "pt": "pv", "en": "prv" },
+    "name": "Provérbios",
+    "author": "Salomão",
+    "group": "Poéticos",
+    "version": "rvr"
+  },
+  "chapter": { "number": 12, "verses": 28 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "EL que ama la corrección ama la sabiduría: Mas el que aborrece la reprensión, es ignorante."
+    },
+    {
+      "number": 2,
+      "text": "El bueno alcanzará favor de Jehová: Mas él condenará al hombre de malos pensamientos."
+    },
+    {
+      "number": 3,
+      "text": "El hombre no se afirmará por medio de la impiedad: Mas la raíz de los justos no será movida."
+    },
+    {
+      "number": 4,
+      "text": "La mujer virtuosa corona es de su marido: Mas la mala, como carcoma en sus huesos."
+    },
+    {
+      "number": 5,
+      "text": "Los pensamientos de los justos son rectitud; Mas los consejos de los impíos, engaño."
+    },
+    {
+      "number": 6,
+      "text": "Las palabras de los impíos son para acechar la sangre: Mas la boca de los rectos los librará."
+    },
+    {
+      "number": 7,
+      "text": "Dios trastornará á los impíos, y no serán más: Mas la casa de los justos permanecerá."
+    },
+    {
+      "number": 8,
+      "text": "Según su sabiduría es alabado el hombre: Mas el perverso de corazón será en menosprecio."
+    },
+    {
+      "number": 9,
+      "text": "Mejor es el que es menospreciado y tiene servidores, Que el que se precia, y carece de pan."
+    },
+    {
+      "number": 10,
+      "text": "El justo atiende á la vida de su bestia: Mas las entrañas de los impíos son crueles."
+    },
+    {
+      "number": 11,
+      "text": "El que labra su tierra, se hartará de pan: Mas el que sigue los vagabundos es falto de entendimiento."
+    },
+    {
+      "number": 12,
+      "text": "Desea el impío la red de los malos: Mas la raíz de los justos dará fruto."
+    },
+    {
+      "number": 13,
+      "text": "El impío es enredado en la prevaricación de sus labios: Mas el justo saldrá de la tribulación."
+    },
+    {
+      "number": 14,
+      "text": "El hombre será harto de bien del fruto de su boca: Y la paga de las manos del hombre le será dada."
+    },
+    {
+      "number": 15,
+      "text": "El camino del necio es derecho en su opinión: Mas el que obedece al consejo es sabio."
+    },
+    {
+      "number": 16,
+      "text": "El necio luego al punto da á conocer su ira: Mas el que disimula la injuria es cuerdo."
+    },
+    {
+      "number": 17,
+      "text": "El que habla verdad, declara justicia; Mas el testigo mentiroso, engaño."
+    },
+    {
+      "number": 18,
+      "text": "Hay quienes hablan como dando estocadas de espada: Mas la lengua de los sabios es medicina."
+    },
+    {
+      "number": 19,
+      "text": "El labio de verdad permanecerá para siempre: Mas la lengua de mentira por un momento."
+    },
+    {
+      "number": 20,
+      "text": "Engaño hay en el corazón de los que piensan mal: Mas alegría en el de los que piensan bien."
+    },
+    {
+      "number": 21,
+      "text": "Ninguna adversidad acontecerá al justo: Mas los impíos serán llenos de mal."
+    },
+    {
+      "number": 22,
+      "text": "Los labios mentirosos son abominación á Jehová: Mas los obradores de verdad su contentamiento."
+    },
+    {
+      "number": 23,
+      "text": "El hombre cuerdo encubre la ciencia: Mas el corazón de los necios publica la necedad."
+    },
+    {
+      "number": 24,
+      "text": "La mano de los diligentes se enseñoreará: Mas la negligencia será tributaria."
+    },
+    {
+      "number": 25,
+      "text": "El cuidado congojoso en el corazón del hombre, lo abate; Mas la buena palabra lo alegra."
+    },
+    {
+      "number": 26,
+      "text": "El justo hace ventaja á su prójimo: Mas el camino de los impíos les hace errar."
+    },
+    {
+      "number": 27,
+      "text": "El indolente no chamuscará su caza: Mas el haber precioso del hombre es la diligencia."
+    },
+    {
+      "number": 28,
+      "text": "En el camino de la justicia está la vida; Y la senda de su vereda no es muerte."
+    }
+  ]
+}

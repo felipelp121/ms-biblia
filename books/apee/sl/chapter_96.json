@@ -1,0 +1,64 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "apee"
+  },
+  "chapter": { "number": 96, "verses": 13 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Chantez à l'Éternel un cantique nouveau; chantez à l'Éternel, vous toute la terre!"
+    },
+    {
+      "number": 2,
+      "text": "Chantez à l'Éternel; bénissez son nom; annoncez de jour en jour son salut!"
+    },
+    {
+      "number": 3,
+      "text": "Racontez sa gloire parmi les nations, ses merveilles parmi tous les peuples."
+    },
+    {
+      "number": 4,
+      "text": "Car l'Éternel est grand et digne de grandes louanges; il est redoutable par-dessus tous les dieux."
+    },
+    {
+      "number": 5,
+      "text": "Car tous les dieux des peuples sont des idoles; mais l'Éternel a fait les cieux."
+    },
+    {
+      "number": 6,
+      "text": "La splendeur et la majesté sont devant lui; la force et la beauté sont dans son sanctuaire."
+    },
+    {
+      "number": 7,
+      "text": "Rendez à l'Éternel, familles des peuples, rendez à l'Éternel la gloire et la force!"
+    },
+    {
+      "number": 8,
+      "text": "Rendez à l'Éternel la gloire due à son nom; apportez des offrandes, et entrez dans ses parvis."
+    },
+    {
+      "number": 9,
+      "text": "Prosternez-vous devant l'Éternel avec des ornements sacrés; tremblez devant lui, vous toute la terre!"
+    },
+    {
+      "number": 10,
+      "text": "Dites parmi les nations: L'Éternel règne; aussi le monde est ferme et ne chancelle point; il jugera les peuples avec équité."
+    },
+    {
+      "number": 11,
+      "text": "Que les cieux se réjouissent, et que la terre tressaille de joie; que la mer retentisse, avec tout ce qu'elle contient!"
+    },
+    {
+      "number": 12,
+      "text": "Que les campagnes s'égaient, avec tout ce qui est en elles; que tous les arbres des forêts chantent de joie, devant l'Éternel!"
+    },
+    {
+      "number": 13,
+      "text": "Car il vient; il vient pour juger la terre; il jugera le monde avec justice, et les peuples selon sa fidélité."
+    }
+  ]
+}

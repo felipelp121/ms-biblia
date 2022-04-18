@@ -1,0 +1,32 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "rvr"
+  },
+  "chapter": { "number": 127, "verses": 5 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "SI Jehová no edificare la casa, En vano trabajan los que la edifican: Si Jehová no guardare la ciudad, En vano vela la guarda."
+    },
+    {
+      "number": 2,
+      "text": "Por demás os es el madrugar á levantaros, el veniros tarde á reposar, El comer pan de dolores: Pues que á su amado dará Dios el sueño."
+    },
+    {
+      "number": 3,
+      "text": "He aquí, heredad de Jehová son los hijos: Cosa de estima el fruto del vientre."
+    },
+    {
+      "number": 4,
+      "text": "Como saetas en mano del valiente, Así son los hijos habidos en la juventud."
+    },
+    {
+      "number": 5,
+      "text": "Bienaventurado el hombre que hinchió su aljaba de ellos: No será avergonzado Cuando hablare con los enemigos en la puerta."
+    }
+  ]
+}

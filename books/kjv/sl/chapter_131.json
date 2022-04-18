@@ -1,0 +1,24 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "kjv"
+  },
+  "chapter": { "number": 131, "verses": 3 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "[A Song of degrees of David.] LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me. {exercise...: Heb. walk} {high: Heb. wonderful}"
+    },
+    {
+      "number": 2,
+      "text": "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul {is} even as a weaned child. {myself: Heb. my soul}"
+    },
+    {
+      "number": 3,
+      "text": "Let Israel hope in the LORD from henceforth and for ever. {henceforth: Heb. now}"
+    }
+  ]
+}

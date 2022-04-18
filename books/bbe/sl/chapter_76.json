@@ -1,0 +1,58 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "bbe"
+  },
+  "chapter": { "number": 76, "verses": 13 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "&lt;To the chief music-maker; put to Neginoth. A Psalm. Of Asaph. A Song.&gt;"
+    },
+    {
+      "number": 2,
+      "text": "In Judah is the knowledge of God; his name is great in Israel,"
+    },
+    { "number": 3, "text": "In Salem is his tent, his resting-place in Zion." },
+    {
+      "number": 4,
+      "text": "There were the arrows of the bow broken, there he put an end to body-cover, sword, and fight. (Selah.)"
+    },
+    {
+      "number": 5,
+      "text": "You are shining and full of glory, more than the eternal mountains."
+    },
+    {
+      "number": 6,
+      "text": "Gone is the wealth of the strong, their last sleep has overcome them; the men of war have become feeble."
+    },
+    {
+      "number": 7,
+      "text": "At the voice of your wrath, O God of Jacob, deep sleep has overcome carriage and horse."
+    },
+    {
+      "number": 8,
+      "text": "You, you are to be feared; who may keep his place before you in the time of your wrath?"
+    },
+    {
+      "number": 9,
+      "text": "From heaven you gave your decision; the earth, in its fear, gave no sound,"
+    },
+    {
+      "number": 10,
+      "text": "When God took his place as judge, for the salvation of the poor on the earth. (Selah.)"
+    },
+    { "number": 11, "text": "The ... will give you praise; the rest of ..." },
+    {
+      "number": 12,
+      "text": "Give to the Lord your God what is his by right; let all who are round him give offerings to him who is to be feared."
+    },
+    {
+      "number": 13,
+      "text": "He puts an end to the wrath of rulers; he is feared by the kings of the earth."
+    }
+  ]
+}
