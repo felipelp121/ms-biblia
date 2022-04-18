@@ -1,0 +1,37 @@
+{
+  "definition": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "Atos6 Mobile",
+      "description": "This is a simple API",
+      "contact": {
+        "email": "you@your-company.com"
+      },
+      "version": "1.0.0"
+    },
+    "servers": [
+      {
+        "url": "https://www.atos6.com/api/v1",
+        "description": "API PATH V1"
+      },
+      {
+        "url": "https://www.atos6.com/api/v2",
+        "description": "API PATH V2"
+      },
+      {
+        "url": "https://www.atos6.com",
+        "description": "Base URL"
+      }
+    ],
+    "tags": [
+      {
+        "name": "user",
+        "description": "User routes"
+      },
+      {
+        "name": "organization",
+        "description": "Organization routes"
+      }
+    ]
+  }
+}
