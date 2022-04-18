@@ -1,5 +1,3 @@
-import { emptyDir, emptyDirSync } from "https://deno.land/std@0.78.0/fs/mod.ts";
-
 const token =
   "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlRodSBBcHIgMTQgMjAyMiAxNDo0OToxMCBHTVQrMDAwMC5mZWxpcGVsb3Blc2RldjE0QGdtYWlsLmNvbSIsImlhdCI6MTY0OTk0Nzc1MH0.fj80ocHCRf7qVKUqMTluBNeC5TPMC_oGLxh8vw1k0uw";
 
@@ -82,87 +80,79 @@ const versions = [
   "rvr",
 ];
 
-// emptyDir("./foo"); // returns a promise
-// emptyDirSync("./foo"); // void
+const createDirs = () => {
+  Deno.run({ cmd: ["mkdir", "./books"] });
+  for (const index in versions) {
+    Deno.run({ cmd: ["mkdir", `./books/${versions[index]}`] });
+    for (const book in books) {
+      Deno.run({ cmd: ["mkdir", `./books/${versions[index]}/${books[book]}`] });
+    }
+  }
+};
 
-async function script() {
-  //create folders
-  //   for (let index in books) {
-  //     emptyDir(`./books/${books[index]}`);
-  //   }
+const download = async () => {
+  for (const version of versions) {
+    for await (const book of books) {
+      const downloaded = await fetch(
+        `https://www.abibliadigital.com.br/api/books/${book}`,
+        {
+          headers: {
+            "Authorization": token,
+          },
+        },
+      );
 
-  //create book comment and chapters
+      const body = await downloaded.json();
+      await Deno.writeTextFile(
+        `./books/${version}/${book}/comment.json`,
+        JSON.stringify(body),
+      ).then(() => {
+        console.log(`Downloaded: ${version}/${book}/comment.json`);
+      });
 
-  //   for (let i in books) {
-  //     (async function (index) {
-  //       setTimeout(async () => {
-  //         let responseBook = await fetch(
-  //           `https://www.abibliadigital.com.br/api/books/${books[index]}`,
-  //           {
-  //             headers: {
-  //               "Authorization": token,
-  //             },
-  //           },
-  //         );
-  //         let bookJson = await responseBook.json();
-  //         let abbrev = books[index];
-  //         await Deno.writeTextFile(
-  //           `./books/${abbrev}/comment.json`,
-  //           JSON.stringify(bookJson),
-  //         );
-  //         let bookChapter = bookJson.chapters;
-  //         console.log("Capitulo:", bookChapter);
-  //         console.log("Name: ", bookJson.name);
-  //         console.log("INDEX: ", index, " de 43");
-  //         for (let version in versions) {
-  //           for (let i2 = 1; i2 <= bookChapter; i2++) {
-  //             (async function (index2) {
-  //               setTimeout(async () => {
-  //                 let responseChapter = await fetch(
-  //                   `https://www.abibliadigital.com.br/api/verses/${
-  //                     versions[version]
-  //                   }/${abbrev}/${index2}`,
-  //                   {
-  //                     headers: {
-  //                       "Authorization": token,
-  //                     },
-  //                   },
-  //                 );
-  //                 let chapterJson = await responseChapter.json();
-  //                 await Deno.writeTextFile(
-  //                   `./books/${abbrev}/chapter-${index2}-version-${
-  //                     versions[version]
-  //                   }.json`,
-  //                   JSON.stringify(chapterJson),
-  //                 );
-  //                 console.log("INDEX DENTRO: ", index2);
-  //                 console.log("Version: ", versions[version]);
-  //               }, i2 * 2500);
-  //             })(i2);
-  //           }
-  //         }
-  //       }, i * 100000);
-  //     })(i);
-  //   }
+      const chaptersAmount = body.chapters;
+      for (let index = 1; index <= chaptersAmount; index++) {
+        const chapter = await fetch(
+          `https://www.abibliadigital.com.br/api/verses/${version}/${book}/${index}`,
+          {
+            headers: {
+              "Authorization": token,
+            },
+          },
+        );
 
-  //all books
+        const bodyChapter = await chapter.json();
 
-  //   let responseAllBooks = await fetch(
-  //     "https://www.abibliadigital.com.br/api/books",
-  //     {
-  //       headers: {
-  //         "Authorization": token,
-  //       },
-  //     },
-  //   );
-  //   let allBooksJson = await responseAllBooks.json();
-  //   await Deno.writeTextFile(
-  //     `./books.json`,
-  //     JSON.stringify(allBooksJson),
-  //   );
+        await Deno.writeTextFile(
+          `./books/${version}/${book}/chapter_${index}.json`,
+          JSON.stringify(bodyChapter),
+        ).then(() => {
+          console.log(`Downloaded: ${version}/${book}/chapter_${index}.json`);
+        });
+      }
+    }
+  }
+};
 
-  const data = JSON.parse(await Deno.readTextFile("./books.json"));
-  console.log(data[1].name);
-}
+const booksInfo = async () => {
+  const info = await fetch(
+    "https://www.abibliadigital.com.br/api/books",
+    {
+      headers: {
+        "Authorization": token,
+      },
+    },
+  );
 
-script();
+  const body = await info.json();
+
+  await Deno.writeTextFile("./books/books.json", JSON.stringify(body)).then(
+    () => {
+      console.log("Downloaded: books.json");
+    },
+  );
+};
+
+createDirs();
+await download();
+await booksInfo();
