@@ -1,0 +1,33 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "rvr"
+  },
+  "chapter": { "number": 150, "verses": 6 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "ALABAD á Dios en su santuario: Alabadle en la extensión de su fortaleza."
+    },
+    {
+      "number": 2,
+      "text": "Alabadle por sus proezas: Alabadle conforme á la muchedumbre de su grandeza."
+    },
+    {
+      "number": 3,
+      "text": "Alabadle á son de bocina: Alabadle con salterio y arpa."
+    },
+    {
+      "number": 4,
+      "text": "Alabadle con adufe y flauta: Alabadle con cuerdas y órgano."
+    },
+    {
+      "number": 5,
+      "text": "Alabadle con címbalos resonantes: Alabadle con címbalos de júbilo."
+    },
+    { "number": 6, "text": "Todo lo que respira alabe á JAH. Aleluya." }
+  ]
+}

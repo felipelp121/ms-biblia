@@ -1,0 +1,65 @@
+{
+  "book": {
+    "abbrev": { "pt": "job", "en": "job" },
+    "name": "Jó",
+    "author": "Desconhecido",
+    "group": "Poéticos",
+    "version": "apee"
+  },
+  "chapter": { "number": 26, "verses": 14 },
+  "verses": [
+    { "number": 1, "text": "Job prit la parole, et dit:" },
+    {
+      "number": 2,
+      "text": "Comme tu as aidé celui qui était sans force! Comme tu as secouru le bras sans vigueur!"
+    },
+    {
+      "number": 3,
+      "text": "Comme tu as bien conseillé l'homme sans raison, et fait paraître l'abondance de ta sagesse!"
+    },
+    {
+      "number": 4,
+      "text": "A qui as-tu adressé des discours? Et de qui est l'esprit qui est sorti de toi?"
+    },
+    {
+      "number": 5,
+      "text": "Les ombres tremblent au-dessous des eaux et de leurs habitants."
+    },
+    {
+      "number": 6,
+      "text": "Le Sépulcre est à nu devant lui, et l'abîme est sans voile."
+    },
+    {
+      "number": 7,
+      "text": "Il étend le septentrion sur le vide, il suspend la terre sur le néant."
+    },
+    {
+      "number": 8,
+      "text": "Il renferme les eaux dans ses nuages, et la nuée n'éclate pas sous leur poids."
+    },
+    {
+      "number": 9,
+      "text": "Il couvre la face de son trône, il étend sa nuée par-dessus."
+    },
+    {
+      "number": 10,
+      "text": "Il décrit un cercle sur les eaux, au point où la lumière confine avec les ténèbres."
+    },
+    {
+      "number": 11,
+      "text": "Les colonnes des cieux sont ébranlées, et s'étonnent à sa menace."
+    },
+    {
+      "number": 12,
+      "text": "Par sa force, il soulève la mer; et par son habileté, il écrase les plus puissants rebelles."
+    },
+    {
+      "number": 13,
+      "text": "Il a orné les cieux par son Esprit; sa main perce le dragon fugitif."
+    },
+    {
+      "number": 14,
+      "text": "Ce ne sont là que les bords de ses voies; qu'il est faible le bruit qu'en saisit notre oreille! Et qui pourra entendre le tonnerre de sa puissance?"
+    }
+  ]
+}

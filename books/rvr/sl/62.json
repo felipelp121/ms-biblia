@@ -1,0 +1,60 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "rvr"
+  },
+  "chapter": { "number": 62, "verses": 12 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "EN Dios solamente está callada mi alma: De él viene mi salud."
+    },
+    {
+      "number": 2,
+      "text": "El solamente es mi fuerte, y mi salud; Es mi refugio, no resbalaré mucho."
+    },
+    {
+      "number": 3,
+      "text": "¿Hasta cuándo maquinaréis contra un hombre? Pereceréis todos vosotros, Caeréis como pared acostada, como cerca ruinosa."
+    },
+    {
+      "number": 4,
+      "text": "Solamente consultan de arrojarle de su grandeza; Aman la mentira, Con su boca bendicen, pero maldicen en sus entrañas. (Selah.)"
+    },
+    {
+      "number": 5,
+      "text": "Alma mía, en Dios solamente reposa; Porque de él es mi esperanza."
+    },
+    {
+      "number": 6,
+      "text": "El solamente es mi fuerte y mi salud: Es mi refugio, no resbalaré."
+    },
+    {
+      "number": 7,
+      "text": "En Dios está mi salvación y mi gloria: En Dios está la roca de mi fortaleza, y mi refugio."
+    },
+    {
+      "number": 8,
+      "text": "Esperad en él en todo tiempo, oh pueblos; Derramad delante de él vuestro corazón: Dios es nuestro amparo. (Selah.)"
+    },
+    {
+      "number": 9,
+      "text": "Por cierto, vanidad son los hijos de los hombres, mentira los hijos de varón: Pesándolos á todos igualmente en la balanza, Serán menos que la vanidad."
+    },
+    {
+      "number": 10,
+      "text": "No confiéis en la violencia, Ni en la rapiña; no os envanezcáis: Si se aumentare la hacienda, no pongáis el corazón en ella."
+    },
+    {
+      "number": 11,
+      "text": "Una vez habló Dios; Dos veces he oído esto: Que de Dios es la fortaleza."
+    },
+    {
+      "number": 12,
+      "text": "Y de ti, oh Señor, es la misericordia: Porque tú pagas á cada uno conforme á su obra."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "bbe"
+  },
+  "chapter": { "number": 129, "verses": 8 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "&lt;A Song of the going up.&gt; Great have been my troubles from the time when I was young (let Israel now say);"
+    },
+    {
+      "number": 2,
+      "text": "Great have been my troubles from the time when I was young, but my troubles have not overcome me."
+    },
+    {
+      "number": 3,
+      "text": "The ploughmen were ploughing on my back; long were the wounds they made."
+    },
+    {
+      "number": 4,
+      "text": "The Lord is true: the cords of the evil-doers are broken in two."
+    },
+    {
+      "number": 5,
+      "text": "Let all the haters of Zion be shamed and turned back."
+    },
+    {
+      "number": 6,
+      "text": "Let them be like the grass on the house-tops, which is dry before it comes to full growth."
+    },
+    {
+      "number": 7,
+      "text": "He who gets in the grain has no use for it; and they do not make bands of it for the grain-stems."
+    },
+    {
+      "number": 8,
+      "text": "And those who go by do not say, The blessing of the Lord be on you; we give you blessing in the name of the Lord."
+    }
+  ]
+}

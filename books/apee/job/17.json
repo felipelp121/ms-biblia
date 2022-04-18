@@ -1,0 +1,76 @@
+{
+  "book": {
+    "abbrev": { "pt": "job", "en": "job" },
+    "name": "Jó",
+    "author": "Desconhecido",
+    "group": "Poéticos",
+    "version": "apee"
+  },
+  "chapter": { "number": 17, "verses": 16 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Mon souffle se perd; mes jours s'éteignent; le tombeau m'attend!"
+    },
+    {
+      "number": 2,
+      "text": "Certes, je suis entouré de railleurs, et mon oeil veille toute la nuit au milieu de leurs insultes."
+    },
+    {
+      "number": 3,
+      "text": "Dépose un gage, sois ma caution auprès de toi-même; car qui voudrait répondre pour moi?"
+    },
+    {
+      "number": 4,
+      "text": "Tu as fermé leur cœur à l'intelligence; c'est pourquoi tu ne les feras pas triompher."
+    },
+    {
+      "number": 5,
+      "text": "Tel livre ses amis au pillage, dont les enfants auront les yeux consumés."
+    },
+    {
+      "number": 6,
+      "text": "On a fait de moi la fable des peuples, un être à qui l'on crache au visage."
+    },
+    {
+      "number": 7,
+      "text": "Et mon oeil s'est consumé de chagrin, et tous mes membres sont comme une ombre."
+    },
+    {
+      "number": 8,
+      "text": "Les hommes droits en sont consternés, et l'innocent est irrité contre l'impie."
+    },
+    {
+      "number": 9,
+      "text": "Le juste néanmoins persévère dans sa voie, et celui dont les mains sont pures redouble de constance."
+    },
+    {
+      "number": 10,
+      "text": "Mais, pour vous tous, allons, recommencez! Je ne trouverai pas un sage parmi vous."
+    },
+    {
+      "number": 11,
+      "text": "Mes jours sont passés; mes desseins, chers à mon cœur, sont renversés."
+    },
+    {
+      "number": 12,
+      "text": "Ils changent la nuit en jour; ils disent la lumière proche, en face des ténèbres!"
+    },
+    {
+      "number": 13,
+      "text": "Quand je n'attends plus pour demeure que le Sépulcre, quand j'étends ma couche dans les ténèbres,"
+    },
+    {
+      "number": 14,
+      "text": "Quand je crie au tombeau: Tu es mon père! et aux vers: Vous êtes ma mère et ma sœur!"
+    },
+    {
+      "number": 15,
+      "text": "Où est donc mon espérance? Et mon espérance, qui pourrait la voir?"
+    },
+    {
+      "number": 16,
+      "text": "Elle descendra aux portes du Sépulcre, quand nous irons ensemble reposer dans la poussière!"
+    }
+  ]
+}

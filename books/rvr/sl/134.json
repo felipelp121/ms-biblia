@@ -1,0 +1,24 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "rvr"
+  },
+  "chapter": { "number": 134, "verses": 3 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "MIRAD, bendecid á Jehová, Vosotros todos los siervos de Jehová, Los que en la casa de Jehová estáis por las noches."
+    },
+    {
+      "number": 2,
+      "text": "Alzad vuestras manos al santuario, Y bendecid á Jehová."
+    },
+    {
+      "number": 3,
+      "text": "Bendígate Jehová desde Sión, El cual ha hecho los cielos y la tierra."
+    }
+  ]
+}

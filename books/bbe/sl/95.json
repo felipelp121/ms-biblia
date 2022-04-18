@@ -1,0 +1,56 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "bbe"
+  },
+  "chapter": { "number": 95, "verses": 11 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "O come, let us make songs to the Lord; sending up glad voices to the Rock of our salvation."
+    },
+    {
+      "number": 2,
+      "text": "Let us come before his face with praises; and make melody with holy songs."
+    },
+    {
+      "number": 3,
+      "text": "For the Lord is a great God, and a great King over all gods."
+    },
+    {
+      "number": 4,
+      "text": "The deep places of the earth are in his hand; and the tops of the mountains are his."
+    },
+    {
+      "number": 5,
+      "text": "The sea is his, and he made it; and the dry land was formed by his hands."
+    },
+    {
+      "number": 6,
+      "text": "O come, let us give worship, falling down on our knees before the Lord our Maker."
+    },
+    {
+      "number": 7,
+      "text": "For he is our God; and we are the people to whom he gives food, and the sheep of his flock. Today, if you would only give ear to his voice!"
+    },
+    {
+      "number": 8,
+      "text": "Let not your hearts be hard, as at Meribah, as in the day of Massah in the waste land;"
+    },
+    {
+      "number": 9,
+      "text": "When your fathers put me to the test and saw my power and my work."
+    },
+    {
+      "number": 10,
+      "text": "For forty years I was angry with this generation, and said, They are a people whose hearts are turned away from me, for they have no knowledge of my ways;"
+    },
+    {
+      "number": 11,
+      "text": "And I made an oath in my wrath, that they might not come into my place of rest."
+    }
+  ]
+}

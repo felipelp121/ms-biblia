@@ -1,0 +1,44 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "bbe"
+  },
+  "chapter": { "number": 124, "verses": 8 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "&lt;A Song of the going up. Of David.&gt; If it had not been the Lord who was on our side (let Israel now say);"
+    },
+    {
+      "number": 2,
+      "text": "If it had not been the Lord who was on our side, when men came up against us;"
+    },
+    {
+      "number": 3,
+      "text": "They would have made a meal of us while still living, in the heat of their wrath against us:"
+    },
+    {
+      "number": 4,
+      "text": "We would have been covered by the waters; the streams would have gone over our soul;"
+    },
+    {
+      "number": 5,
+      "text": "Yes, the waters of pride would have gone over our soul."
+    },
+    {
+      "number": 6,
+      "text": "Praise be to the Lord, who has not let us be wounded by their teeth."
+    },
+    {
+      "number": 7,
+      "text": "Our soul has gone free like a bird out of the net of those who would take her: the net is broken, and we are free."
+    },
+    {
+      "number": 8,
+      "text": "Our help is in the name of the Lord, the maker of heaven and earth."
+    }
+  ]
+}

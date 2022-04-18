@@ -1,0 +1,24 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "bbe"
+  },
+  "chapter": { "number": 133, "verses": 3 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "&lt;A Song of the going up. Of David.&gt; See how good and how pleasing it is for brothers to be living together in harmony!"
+    },
+    {
+      "number": 2,
+      "text": "It is like oil of great price on the head, flowing down over the face, even Aaron&#x27;s face: coming down to the edge of his robe;"
+    },
+    {
+      "number": 3,
+      "text": "Like the dew of Hermon, which comes down on the mountains of Zion: for there the Lord gave orders for the blessing, even life for ever."
+    }
+  ]
+}

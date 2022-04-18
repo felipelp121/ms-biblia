@@ -1,0 +1,28 @@
+{
+  "book": {
+    "abbrev": { "pt": "jr", "en": "jr" },
+    "name": "Jeremias",
+    "author": "Jeremias",
+    "group": "Profetas maiores",
+    "version": "apee"
+  },
+  "chapter": { "number": 45, "verses": 4 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "La Parole que Jérémie, le prophète, adressa à Baruc, fils de Nérija, quand il écrivait dans un livre ces paroles-là, sous la dictée de Jérémie, la quatrième année de Jéhojakim, fils de Josias, roi de Juda."
+    },
+    {
+      "number": 2,
+      "text": "Il dit: Ainsi a dit l'Éternel, le Dieu d'Israël, à ton sujet, Baruc!"
+    },
+    {
+      "number": 3,
+      "text": "Tu lui diras donc: Ainsi a dit l'Éternel: Voici, ce que j'ai bâti, je le renverse; ce que j'ai planté, je l'arrache, savoir, tout ce pays."
+    },
+    {
+      "number": 4,
+      "text": "Et toi, te chercherais-tu de grandes choses? Ne les cherche pas; car voici, je vais faire venir le malheur sur toute chair, dit l'Éternel; mais je te donnerai ta vie pour butin, dans tous les lieux où tu iras."
+    }
+  ]
+}

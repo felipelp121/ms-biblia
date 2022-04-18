@@ -1,0 +1,293 @@
+{
+  "book": {
+    "abbrev": { "pt": "nm", "en": "nm" },
+    "name": "Números",
+    "author": "Moisés",
+    "group": "Pentateuco",
+    "version": "apee"
+  },
+  "chapter": { "number": 7, "verses": 89 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Lorsque Moïse eut achevé de dresser le Tabernacle, et qu'il l'eut oint et consacré avec tous ses ustensiles, lorsqu'il eut aussi oint et consacré l'autel et tous ses ustensiles,"
+    },
+    {
+      "number": 2,
+      "text": "Les principaux d'Israël, chefs des familles de leurs pères, c'est-à-dire les princes des tribus, ceux qui avaient présidé au dénombrement, firent leur offrande."
+    },
+    {
+      "number": 3,
+      "text": "Ils amenèrent donc leur offrande devant l'Éternel: six chariots en forme de litières, et douze taureaux; un chariot pour deux princes, et un taureau pour chacun, et ils les offrirent devant le Tabernacle."
+    },
+    { "number": 4, "text": "Alors l'Éternel parla à Moïse, en disant:" },
+    {
+      "number": 5,
+      "text": "Prends d'eux ces choses, et qu'elles soient employées au service du tabernacle d'assignation; et donne-les aux Lévites, à chacun selon son service."
+    },
+    {
+      "number": 6,
+      "text": "Moïse prit donc les chariots et les taureaux, et les donna aux Lévites."
+    },
+    {
+      "number": 7,
+      "text": "Il donna aux enfants de Guershon deux chariots et quatre taureaux, selon leur service."
+    },
+    {
+      "number": 8,
+      "text": "Et il donna aux enfants de Mérari quatre chariots et huit taureaux, selon leur service, sous la conduite d'Ithamar, fils d'Aaron, le sacrificateur."
+    },
+    {
+      "number": 9,
+      "text": "Mais il n'en donna point aux enfants de Kéhath parce qu'ils étaient chargés du service des choses saintes; ils les portaient sur leurs épaules."
+    },
+    {
+      "number": 10,
+      "text": "Et les princes firent une offrande pour la dédicace de l'autel, au jour qu'il fut oint; les princes apportèrent leur offrande devant l'autel."
+    },
+    {
+      "number": 11,
+      "text": "Et l'Éternel dit à Moïse: Qu'un prince apporte son offrande un jour, et un autre, un autre jour, pour la dédicace de l'autel."
+    },
+    {
+      "number": 12,
+      "text": "Et celui qui offrit son offrande le premier jour fut Nahasshon, fils d'Amminadab, de la tribu de Juda."
+    },
+    {
+      "number": 13,
+      "text": "Son offrande fut un plat d'argent, du poids de cent trente sicles, un bassin d'argent de soixante et dix sicles, selon le sicle du sanctuaire, tous deux pleins de fine farine pétrie à l'huile, pour l'oblation;"
+    },
+    { "number": 14, "text": "Une coupe d'or de dix sicles pleine de parfum;" },
+    {
+      "number": 15,
+      "text": "Un jeune taureau, un bélier, un agneau de l'année, pour l'holocauste;"
+    },
+    { "number": 16, "text": "Un bouc pour le sacrifice pour le péché;" },
+    {
+      "number": 17,
+      "text": "Et pour le sacrifice de prospérités, deux taureaux, cinq béliers, cinq jeunes boucs, cinq agneaux d'un an. Telle fut l'offrande de Nahasshon, fils d'Amminadab."
+    },
+    {
+      "number": 18,
+      "text": "Le second jour, Nathanaël, fils de Tsuar, prince d'Issacar, fit son offrande;"
+    },
+    {
+      "number": 19,
+      "text": "Il offrit: un plat d'argent, du poids de cent trente sicles, un bassin d'argent de soixante et dix sicles, selon le sicle du sanctuaire, tous deux pleins de fine farine pétrie à l'huile, pour l'oblation;"
+    },
+    { "number": 20, "text": "Une coupe d'or de dix sicles, pleine de parfum;" },
+    {
+      "number": 21,
+      "text": "Un jeune taureau, un bélier, un agneau de l'année, pour l'holocauste;"
+    },
+    { "number": 22, "text": "Un bouc pour le sacrifice pour le péché;" },
+    {
+      "number": 23,
+      "text": "Et pour le sacrifice de prospérités, deux taureaux, cinq béliers, cinq jeunes boucs, cinq agneaux d'un an. Telle fut l'offrande de Nathanaël, fils de Tsuar."
+    },
+    {
+      "number": 24,
+      "text": "Le troisième jour, ce fut le prince des enfants de Zabulon, Éliab, fils de Hélon."
+    },
+    {
+      "number": 25,
+      "text": "Son offrande fut un plat d'argent, du poids de cent trente sicles, un bassin d'argent de soixante et dix sicles, selon le sicle du sanctuaire, tous deux pleins de fine farine pétrie à l'huile, pour l'oblation;"
+    },
+    { "number": 26, "text": "Une coupe d'or de dix sicles, pleine de parfum;" },
+    {
+      "number": 27,
+      "text": "Un jeune taureau, un bélier, un agneau de l'année, pour l'holocauste;"
+    },
+    { "number": 28, "text": "Un bouc pour le sacrifice pour le péché;" },
+    {
+      "number": 29,
+      "text": "Et pour le sacrifice de prospérités, deux taureaux, cinq béliers, cinq jeunes boucs, cinq agneaux d'un an. Telle fut l'offrande d'Éliab, fils de Hélon."
+    },
+    {
+      "number": 30,
+      "text": "Le quatrième jour, ce fut le prince des enfants de Ruben, Elitsur, fils de Shedéur."
+    },
+    {
+      "number": 31,
+      "text": "Son offrande fut un plat d'argent, du poids de cent trente sicles, un bassin d'argent de soixante et dix sicles, selon le sicle du sanctuaire, tous deux pleins de fine farine pétrie à l'huile, pour l'oblation;"
+    },
+    { "number": 32, "text": "Une coupe d'or de dix sicles, pleine de parfum;" },
+    {
+      "number": 33,
+      "text": "Un jeune taureau, un bélier, un agneau de l'année, pour l'holocauste;"
+    },
+    { "number": 34, "text": "Un bouc pour le sacrifice pour le péché;" },
+    {
+      "number": 35,
+      "text": "Et pour le sacrifice de prospérités, deux taureaux, cinq béliers, cinq jeunes boucs, cinq agneaux d'un an. Telle fut l'offrande d'Elitsur, fils de Shedéur."
+    },
+    {
+      "number": 36,
+      "text": "Le cinquième jour, ce fut le prince des enfants de Siméon, Shelumiel, fils de Tsurishaddaï."
+    },
+    {
+      "number": 37,
+      "text": "Son offrande fut un plat d'argent, du poids de cent trente sicles, un bassin d'argent de soixante et dix sicles, selon le sicle du sanctuaire, tous deux pleins de fine farine pétrie à l'huile, pour l'oblation;"
+    },
+    { "number": 38, "text": "Une coupe d'or de dix sicles, pleine de parfum;" },
+    {
+      "number": 39,
+      "text": "Un jeune taureau, un bélier, un agneau de l'année, pour l'holocauste;"
+    },
+    { "number": 40, "text": "Un bouc pour le sacrifice pour le péché;" },
+    {
+      "number": 41,
+      "text": "Et pour le sacrifice de prospérités, deux taureaux, cinq béliers, cinq jeunes boucs, cinq agneaux d'un an. Telle fut l'offrande de Shelumiel, fils de Tsurishaddaï."
+    },
+    {
+      "number": 42,
+      "text": "Le sixième jour, ce fut le prince des enfants de Gad, Eliasaph, fils de Déhuël."
+    },
+    {
+      "number": 43,
+      "text": "Son offrande fut un plat d'argent, du poids de cent trente sicles, un bassin d'argent de soixante et dix sicles, selon le sicle du sanctuaire, tous deux pleins de fine farine pétrie à l'huile, pour l'oblation;"
+    },
+    { "number": 44, "text": "Une coupe d'or de dix sicles, pleine de parfum;" },
+    {
+      "number": 45,
+      "text": "Un jeune taureau, un bélier, un agneau de l'année, pour l'holocauste;"
+    },
+    { "number": 46, "text": "Un bouc pour le sacrifice pour le péché;" },
+    {
+      "number": 47,
+      "text": "Et pour le sacrifice de prospérités, deux taureaux, cinq béliers, cinq jeunes boucs, cinq agneaux d'un an. Telle fut l'offrande d'Eliasaph, fils de Déhuël."
+    },
+    {
+      "number": 48,
+      "text": "Le septième jour, ce fut le prince des enfants d'Éphraïm, Elishama, fils d'Ammihud."
+    },
+    {
+      "number": 49,
+      "text": "Son offrande fut un plat d'argent, du poids de cent trente sicles, un bassin d'argent de soixante et dix sicles, selon le sicle du sanctuaire, tous deux pleins de fine farine pétrie à l'huile, pour l'oblation;"
+    },
+    { "number": 50, "text": "Une coupe d'or de dix sicles, pleine de parfum;" },
+    {
+      "number": 51,
+      "text": "Un jeune taureau, un bélier, un agneau de l'année, pour l'holocauste;"
+    },
+    { "number": 52, "text": "Un bouc pour le sacrifice pour le péché;" },
+    {
+      "number": 53,
+      "text": "Et pour le sacrifice de prospérités, deux taureaux, cinq béliers, cinq jeunes boucs, cinq agneaux d'un an. Telle fut l'offrande d'Elishama, fils d'Ammihud."
+    },
+    {
+      "number": 54,
+      "text": "Le huitième jour, ce fut le prince des enfants de Manassé, Gamaliel, fils de Pedahtsur."
+    },
+    {
+      "number": 55,
+      "text": "Son offrande fut un plat d'argent, du poids de cent trente sicles, un bassin d'argent de soixante et dix sicles, selon le sicle du sanctuaire, tous deux pleins de fine farine pétrie à l'huile, pour l'oblation;"
+    },
+    { "number": 56, "text": "Une coupe d'or de dix sicles, pleine de parfum," },
+    {
+      "number": 57,
+      "text": "Un jeune taureau, un bélier, un agneau de l'année, pour l'holocauste;"
+    },
+    { "number": 58, "text": "Un bouc pour le sacrifice pour le péché;" },
+    {
+      "number": 59,
+      "text": "Et pour le sacrifice de prospérités, deux taureaux, cinq béliers, cinq jeunes boucs, cinq agneaux d'un an. Telle fut l'offrande de Gamaliel, fils de Pedahtsur."
+    },
+    {
+      "number": 60,
+      "text": "Le neuvième jour, ce fut le prince des enfants de Benjamin, Abidan, fils de Guideoni."
+    },
+    {
+      "number": 61,
+      "text": "Son offrande fut un plat d'argent, du poids de cent trente sicles, un bassin d'argent de soixante et dix sicles, selon le sicle du sanctuaire, tous deux pleins de fine farine pétrie à l'huile, pour l'oblation;"
+    },
+    { "number": 62, "text": "Une coupe d'or de dix sicles, pleine de parfum;" },
+    {
+      "number": 63,
+      "text": "Un jeune taureau, un bélier, un agneau de l'année pour l'holocauste;"
+    },
+    { "number": 64, "text": "Un bouc pour le sacrifice pour le péché;" },
+    {
+      "number": 65,
+      "text": "Et pour le sacrifice de prospérités, deux taureaux, cinq béliers, cinq jeunes boucs, cinq agneaux d'un an. Telle fut l'offrande d'Abidan, fils de Guideoni."
+    },
+    {
+      "number": 66,
+      "text": "Le dixième jour, ce fut le prince des enfants de Dan, Ahiézer, fils d'Ammishaddaï."
+    },
+    {
+      "number": 67,
+      "text": "Son offrande fut un plat d'argent, du poids de cent trente sicles, un bassin d'argent de soixante et dix sicles, selon le sicle du sanctuaire, tous deux pleins de fine farine pétrie à l'huile, pour l'oblation;"
+    },
+    { "number": 68, "text": "Une coupe d'or de dix sicles, pleine de parfum;" },
+    {
+      "number": 69,
+      "text": "Un jeune taureau, un bélier, un agneau de l'année, pour l'holocauste;"
+    },
+    { "number": 70, "text": "Un bouc pour le sacrifice pour le péché;" },
+    {
+      "number": 71,
+      "text": "Et pour le sacrifice de prospérités, deux taureaux, cinq béliers, cinq jeunes boucs, cinq agneaux d'un an. Telle fut l'offrande d'Ahiézer, fils d'Ammishaddaï."
+    },
+    {
+      "number": 72,
+      "text": "Le onzième jour, ce fut le prince des enfants d'Asser, Paguiel, fils d'Ocran."
+    },
+    {
+      "number": 73,
+      "text": "Son offrande fut un plat d'argent, du poids de cent trente sicles, un bassin d'argent de soixante et dix sicles, selon le sicle du sanctuaire, tous deux pleins de fine farine pétrie à l'huile, pour l'oblation;"
+    },
+    { "number": 74, "text": "Une coupe d'or de dix sicles, pleine de parfum;" },
+    {
+      "number": 75,
+      "text": "Un jeune taureau, un bélier, un agneau de l'année, pour l'holocauste;"
+    },
+    { "number": 76, "text": "Un bouc pour le sacrifice pour le péché;" },
+    {
+      "number": 77,
+      "text": "Et pour le sacrifice de prospérités, deux taureaux, cinq béliers, cinq jeunes boucs, cinq agneaux d'un an. Telle fut l'offrande de Paguiel, fils d'Ocran."
+    },
+    {
+      "number": 78,
+      "text": "Le douzième jour, ce fut le prince des enfants de Nephthali, Ahira, fils d'Enan."
+    },
+    {
+      "number": 79,
+      "text": "Son offrande fut un plat d'argent, du poids de cent trente sicles, un bassin d'argent de soixante et dix sicles, selon le sicle du sanctuaire, tous deux pleins de fine farine pétrie à l'huile, pour l'oblation;"
+    },
+    { "number": 80, "text": "Une coupe d'or de dix sicles, pleine de parfum;" },
+    {
+      "number": 81,
+      "text": "Un jeune taureau, un bélier, un agneau de l'année, pour l'holocauste;"
+    },
+    { "number": 82, "text": "Un bouc pour le sacrifice pour le péché;" },
+    {
+      "number": 83,
+      "text": "Et pour le sacrifice de prospérités, deux taureaux, cinq béliers, cinq jeunes boucs, cinq agneaux d'un an. Telle fut l'offrande d'Ahira, fils d'Enan."
+    },
+    {
+      "number": 84,
+      "text": "Voilà ce qu'on reçut des princes d'Israël pour la dédicace de l'autel, lorsqu'il fut oint: Douze plats d'argent, douze bassins d'argent, douze coupes d'or;"
+    },
+    {
+      "number": 85,
+      "text": "Chaque plat d'argent était de cent trente sicles, et chaque bassin de soixante et dix. Tout l'argent des vases fut de deux mille quatre cents sicles selon le sicle du sanctuaire."
+    },
+    {
+      "number": 86,
+      "text": "Douze coupes d'or, pleines de parfum, chacune de dix sicles, selon le sicle du sanctuaire. Tout l'or des coupes fut de cent vingt sicles."
+    },
+    {
+      "number": 87,
+      "text": "Tous les taureaux pour l'holocauste, furent douze jeunes taureaux, avec douze béliers, douze agneaux d'un an, avec leurs oblations, et douze boucs, pour le sacrifice pour le péché;"
+    },
+    {
+      "number": 88,
+      "text": "Tous les taureaux du sacrifice de prospérités furent vingt-quatre jeunes taureaux, avec soixante béliers, soixante jeunes boucs, soixante agneaux d'un an. Telle fut la dédicace de l'autel, après qu'il eut été oint."
+    },
+    {
+      "number": 89,
+      "text": "Or quand Moïse entrait au tabernacle d'assignation, pour parler avec Dieu, il entendait la voix lui parlant de dessus le propitiatoire, qui était sur l'arche du Témoignage, d'entre les deux Voyants; et il lui parlait."
+    }
+  ]
+}

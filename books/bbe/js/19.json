@@ -1,0 +1,180 @@
+{
+  "book": {
+    "abbrev": { "pt": "js", "en": "js" },
+    "name": "Josué",
+    "author": "Josué",
+    "group": "Históricos",
+    "version": "bbe"
+  },
+  "chapter": { "number": 19, "verses": 51 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "And the second heritage came out for the tribe of Simeon by their families; and their heritage was in the middle of the heritage of the children of Judah."
+    },
+    {
+      "number": 2,
+      "text": "And they had for their heritage Beer-sheba and Shema and Moladah"
+    },
+    { "number": 3, "text": "And Hazar-shual and Balah and Ezem" },
+    { "number": 4, "text": "And Eltolad and Bethul and Hormah" },
+    { "number": 5, "text": "And Ziklag and Beth-marcaboth and Hazar-susah" },
+    {
+      "number": 6,
+      "text": "And Beth-lebaoth and Sharuhen; thirteen towns with their unwalled places;"
+    },
+    {
+      "number": 7,
+      "text": "Ain, Rimmon, and Ether and Ashan; four towns with their unwalled places;"
+    },
+    {
+      "number": 8,
+      "text": "And all the unwalled places round about these towns as far as Baalath-beer-ramah to the south. This is the heritage of the tribe of Simeon by their families."
+    },
+    {
+      "number": 9,
+      "text": "The heritage of Simeon was taken out of Judah&#x27;s stretch of land, for Judah&#x27;s part was more than they had need of, so the heritage of the children of Simeon was inside their heritage."
+    },
+    {
+      "number": 10,
+      "text": "And the third heritage came out for Zebulun by their families; the limit of their heritage was as far as Sarid;"
+    },
+    {
+      "number": 11,
+      "text": "And their limit goes up to the west to Maralah, stretching to Dabbesheth, and to the stream in front of Jokneam;"
+    },
+    {
+      "number": 12,
+      "text": "Then turning east from Sarid to the limit of Chisloth-tabor, it goes out to Daberath, and up to Japhia;"
+    },
+    {
+      "number": 13,
+      "text": "And from there it goes on east to Gath-hepher, to Eth-kazin; ending at Rimmon which goes as far as Neah;"
+    },
+    {
+      "number": 14,
+      "text": "And the line goes round it on the north to Hannathon, ending at the valley of Iphtah-el;"
+    },
+    {
+      "number": 15,
+      "text": "And Kattath and Nahalal and Shimron and Idalah and Beth-lehem; twelve towns with their unwalled places."
+    },
+    {
+      "number": 16,
+      "text": "This is the heritage of the children of Zebulun by their families, these towns with their unwalled places."
+    },
+    {
+      "number": 17,
+      "text": "For Issachar the fourth heritage came out, for the children of Issachar by their families;"
+    },
+    {
+      "number": 18,
+      "text": "And their limit was to Jezreel and Chesulloth and Shunem"
+    },
+    { "number": 19, "text": "And Hapharaim and Shion and Anaharath" },
+    { "number": 20, "text": "And Rabbith and Kishion and Ebez" },
+    {
+      "number": 21,
+      "text": "And Remeth and En-gannim and En-haddah and Beth-pazzez;"
+    },
+    {
+      "number": 22,
+      "text": "And their limit goes as far as Tabor and Shahazimah and Beth-shemesh, ending at Jordan; sixteen towns with their unwalled places."
+    },
+    {
+      "number": 23,
+      "text": "This is the heritage of the tribe of the children of Issachar by their families, these towns with their unwalled places."
+    },
+    {
+      "number": 24,
+      "text": "And the fifth heritage came out for the tribe of Asher by their families."
+    },
+    {
+      "number": 25,
+      "text": "And their limit was Helkath and Hali and Beten and Achshaph"
+    },
+    {
+      "number": 26,
+      "text": "And Alammelech and Amad and Mishal, stretching to Carmel on the west and Shihor-libnath;"
+    },
+    {
+      "number": 27,
+      "text": "Turning to the east to Beth-dagon and stretching to Zebulun and the valley of Iphtah-el as far as Beth-emek and Neiel to the north; on the left it goes as far as Cabul"
+    },
+    {
+      "number": 28,
+      "text": "And Ebron and Rehob and Hammon and Kanah, to great Zidon;"
+    },
+    {
+      "number": 29,
+      "text": "And the limit goes round to Ramah and the walled town of Tyre and Hosah, ending at the sea by Heleb and Achzib;"
+    },
+    {
+      "number": 30,
+      "text": "And Ummah and Aphek and Rehob; twenty-two towns with their unwalled places."
+    },
+    {
+      "number": 31,
+      "text": "This is the heritage of the tribe of the children of Asher by their families, these towns with their unwalled places."
+    },
+    {
+      "number": 32,
+      "text": "For the children of Naphtali the sixth heritage came out, for the children of Naphtali by their families;"
+    },
+    {
+      "number": 33,
+      "text": "And their limit was from Heleph, from the oak-tree in Zaanannim, and Adami-hannekeb and Jabneel, as far as Lakkum, ending at Jordan;"
+    },
+    {
+      "number": 34,
+      "text": "And turning west to Aznoth-tabor, the limit goes out from there to Hukkok, stretching to Zebulun on the south, and Asher on the west, and Judah at Jordan on the east."
+    },
+    {
+      "number": 35,
+      "text": "And the walled towns are Ziddim, Zer, and Hammath, Rakkath, and Chinnereth"
+    },
+    { "number": 36, "text": "And Adamah and Ramah and Hazor" },
+    { "number": 37, "text": "And Kedesh and Edrei and En-Hazor" },
+    {
+      "number": 38,
+      "text": "And Iron and Migdal-el, Horem and Beth-anath and Beth-shemesh; nineteen towns with their unwalled places."
+    },
+    {
+      "number": 39,
+      "text": "This is the heritage of the tribe of the children of Naphtali by their families, these towns with their unwalled places."
+    },
+    {
+      "number": 40,
+      "text": "For the tribe of Dan by their families the seventh heritage came out;"
+    },
+    {
+      "number": 41,
+      "text": "And the limit of their heritage was Zorah and Eshtaol and Ir-shemesh"
+    },
+    { "number": 42, "text": "And Shaalabbin and Aijalon and Ithlah" },
+    { "number": 43, "text": "And Elon and Timnah and Ekron" },
+    { "number": 44, "text": "And Eltekeh and Gibbethon and Baalath" },
+    { "number": 45, "text": "And Jehud and Bene-berak and Gath-rimmon;" },
+    { "number": 46, "text": "And on the west was ... opposite Joppa." },
+    {
+      "number": 47,
+      "text": "(But the limit of the children of Dan was not wide enough for them; so the children of Dan went up and made war on Leshem and took it, putting it to the sword without mercy, and they took it for their heritage and made a place for themselves there, giving it the name of Leshem-dan, after the name of their father, Dan.)"
+    },
+    {
+      "number": 48,
+      "text": "This is the heritage of the tribe of the children of Dan by their families, these towns with their unwalled places."
+    },
+    {
+      "number": 49,
+      "text": "So the distribution of the land and its limits was complete; and the children of Israel gave Joshua, the son of Nun, a heritage among them;"
+    },
+    {
+      "number": 50,
+      "text": "By the orders of the Lord they gave him the town for which he made request, Timnath-serah in the hill-country of Ephraim: there, after building the town, he made his living-place."
+    },
+    {
+      "number": 51,
+      "text": "These are the heritages which Eleazar the priest and Joshua, the son of Nun, and the heads of families of the tribes of the children of Israel gave out at Shiloh, by the decision of the Lord, at the door of the Tent of meeting. So the distribution of the land was complete."
+    }
+  ]
+}

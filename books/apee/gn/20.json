@@ -1,0 +1,84 @@
+{
+  "book": {
+    "abbrev": { "pt": "gn", "en": "gn" },
+    "name": "Gênesis",
+    "author": "Moisés",
+    "group": "Pentateuco",
+    "version": "apee"
+  },
+  "chapter": { "number": 20, "verses": 18 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Abraham partit de là pour le pays du Midi, et il demeura entre Kadès et Shur, et il séjourna à Guérar."
+    },
+    {
+      "number": 2,
+      "text": "Et Abraham dit de Sara sa femme: C'est ma soeur. Et Abimélec, roi de Guérar, envoya enlever Sara."
+    },
+    {
+      "number": 3,
+      "text": "Mais Dieu vint vers Abimélec, en songe, pendant la nuit, et lui dit: Voici, tu es mort, à cause de la femme que tu as prise; car elle a un mari."
+    },
+    {
+      "number": 4,
+      "text": "Or, Abimélec ne s'était point approché d'elle. Et il répondit: Seigneur, feras-tu périr même une nation juste?"
+    },
+    {
+      "number": 5,
+      "text": "Ne m'a-t-il pas dit: C'est ma soeur? Et elle, elle aussi, n'a-t-elle pas dit: C'est mon frère? C'est dans l'intégrité de mon coeur, et dans l'innocence de mes mains que j'ai fait cela."
+    },
+    {
+      "number": 6,
+      "text": "Et Dieu lui dit en songe: Moi aussi je sais que tu l'as fait dans l'intégrité de ton cœur; aussi t'ai-je empêché de pécher contre moi; c'est pour cela que je n'ai point permis que tu la touches."
+    },
+    {
+      "number": 7,
+      "text": "Mais maintenant rends la femme de cet homme, car il est prophète; et il priera pour toi, et tu vivras. Mais si tu ne la rends pas, sache que tu mourras certainement, toi et tout ce qui est à toi."
+    },
+    {
+      "number": 8,
+      "text": "Et Abimélec se leva de bon matin, et appela tous ses serviteurs, et leur fit entendre toutes ces paroles; et ces gens furent saisis de crainte."
+    },
+    {
+      "number": 9,
+      "text": "Puis Abimélec appela Abraham et lui dit: Que nous as-tu fait? Et en quoi t'ai-je offensé, que tu aies fait venir sur moi et sur mon royaume un si grand péché? Tu as fait à mon égard des choses qui ne se font pas."
+    },
+    {
+      "number": 10,
+      "text": "Puis Abimélec dit à Abraham: Qu'avais-tu en vue, pour en agir ainsi?"
+    },
+    {
+      "number": 11,
+      "text": "Et Abraham répondit: C'est que je me suis dit: Il n'y a sûrement aucune crainte de Dieu dans ce lieu, et ils me tueront à cause de ma femme."
+    },
+    {
+      "number": 12,
+      "text": "Mais aussi, en vérité, elle est ma soeur, fille de mon père; seulement, elle n'est point fille de ma mère; et elle est devenue ma femme."
+    },
+    {
+      "number": 13,
+      "text": "Or, lorsque Dieu me fit errer loin de la maison de mon père, je lui dis: Voici la faveur que tu me feras: Dans tous les lieux où nous irons, dis de moi: C'est mon frère."
+    },
+    {
+      "number": 14,
+      "text": "Alors Abimélec prit des brebis et des boeufs, des serviteurs et des servantes, et les donna à Abraham, et il lui rendit Sara sa femme."
+    },
+    {
+      "number": 15,
+      "text": "Et Abimélec dit: Voici, mon pays est à ta disposition; habite où il te plaira."
+    },
+    {
+      "number": 16,
+      "text": "Et il dit à Sara: Voici, j'ai donné à ton frère mille pièces d'argent; voici, ce sera pour toi un voile sur les yeux, devant tous ceux qui sont avec toi; et auprès de tous tu seras justifiée."
+    },
+    {
+      "number": 17,
+      "text": "Et Abraham pria Dieu; et Dieu guérit Abimélec, sa femme et ses servantes, et elles enfantèrent."
+    },
+    {
+      "number": 18,
+      "text": "Car l'Éternel avait entièrement rendu stérile toute la maison d'Abimélec, à cause de Sara, femme d'Abraham."
+    }
+  ]
+}

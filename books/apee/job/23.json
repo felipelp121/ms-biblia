@@ -1,0 +1,77 @@
+{
+  "book": {
+    "abbrev": { "pt": "job", "en": "job" },
+    "name": "Jó",
+    "author": "Desconhecido",
+    "group": "Poéticos",
+    "version": "apee"
+  },
+  "chapter": { "number": 23, "verses": 17 },
+  "verses": [
+    { "number": 1, "text": "Et Job prit la parole, et dit:" },
+    {
+      "number": 2,
+      "text": "Maintenant encore ma plainte est une révolte, et pourtant ma main comprime mes soupirs."
+    },
+    {
+      "number": 3,
+      "text": "Oh! si je savais où le trouver, j'irais jusqu'à son trône,"
+    },
+    {
+      "number": 4,
+      "text": "J'exposerais ma cause devant lui, et je remplirais ma bouche de preuves;"
+    },
+    {
+      "number": 5,
+      "text": "Je saurais ce qu'il me répondrait, et je comprendrais ce qu'il me dirait."
+    },
+    {
+      "number": 6,
+      "text": "Contesterait-il avec moi dans la grandeur de sa force? Non, seulement il ferait attention à moi."
+    },
+    {
+      "number": 7,
+      "text": "Ce serait alors un juste qui raisonnerait avec lui, et je serais absous pour toujours par mon juge."
+    },
+    {
+      "number": 8,
+      "text": "Voici, si je vais à l'Orient, il n'y est pas; si je vais à l'Occident, je ne le découvre pas."
+    },
+    {
+      "number": 9,
+      "text": "Est-il occupé au Nord, je ne le vois pas. Se cache-t-il au Midi, je ne l'aperçois pas."
+    },
+    {
+      "number": 10,
+      "text": "Il sait la voie que j'ai suivie; qu'il m'éprouve, j'en sortirai comme l'or."
+    },
+    {
+      "number": 11,
+      "text": "Mon pied s'est attaché à ses pas, j'ai gardé sa voie, et je ne m'en suis pas détourné."
+    },
+    {
+      "number": 12,
+      "text": "Je ne me suis point écarté du commandement de ses lèvres, j'ai tenu aux paroles de sa bouche plus qu'à ma provision ordinaire."
+    },
+    {
+      "number": 13,
+      "text": "Mais il n'a qu'une pensée; qui l'en fera revenir? Ce que son âme désire, il le fait."
+    },
+    {
+      "number": 14,
+      "text": "Il achèvera ce qu'il a décidé de moi, et il a dans l'esprit bien d'autres choses pareilles à celle-ci."
+    },
+    {
+      "number": 15,
+      "text": "C'est pourquoi sa présence m'épouvante; quand j'y pense, j'ai peur de lui."
+    },
+    {
+      "number": 16,
+      "text": "Dieu a amolli mon cœur, et le Tout-Puissant m'a épouvanté."
+    },
+    {
+      "number": 17,
+      "text": "Car je n'ai pas été retranché avant l'arrivée des ténèbres, et il n'a pas éloigné de ma face l'obscurité."
+    }
+  ]
+}

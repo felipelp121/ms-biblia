@@ -1,0 +1,36 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "apee"
+  },
+  "chapter": { "number": 13, "verses": 6 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Au maître-chantre. Psaume de David. Jusqu'à quand, ô Éternel, m'oublieras-tu toujours? Jusqu'à quand me cacheras-tu ta face?"
+    },
+    {
+      "number": 2,
+      "text": "Jusqu'à quand formerai-je des projets dans mon âme, et aurai-je le chagrin au cœur tout le jour? Jusqu'à quand mon ennemi s'élèvera-t-il contre moi?"
+    },
+    {
+      "number": 3,
+      "text": "Éternel, mon Dieu, regarde, exauce-moi; éclaire mes yeux, de peur que je ne m'endorme du sommeil de la mort;"
+    },
+    {
+      "number": 4,
+      "text": "De peur que mon ennemi ne dise: J'ai eu le dessus; que mes adversaires ne se réjouissent, si j'étais ébranlé."
+    },
+    {
+      "number": 5,
+      "text": "Pour moi, je me confie en ta bonté; mon cœur se réjouira de ton salut;"
+    },
+    {
+      "number": 6,
+      "text": "Je chanterai à l'Éternel, parce qu'il m'aura fait du bien."
+    }
+  ]
+}

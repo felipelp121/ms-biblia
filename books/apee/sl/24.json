@@ -1,0 +1,52 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "apee"
+  },
+  "chapter": { "number": 24, "verses": 10 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Psaume de David. La terre appartient à l'Éternel, et ce qu'elle contient, le monde et ceux qui l'habitent."
+    },
+    {
+      "number": 2,
+      "text": "Car il l'a fondée au-dessus des mers, et l'a affermie au-dessus des fleuves."
+    },
+    {
+      "number": 3,
+      "text": "Qui pourra monter à la montagne de l'Éternel? Et qui se tiendra dans le lieu de sa sainteté?"
+    },
+    {
+      "number": 4,
+      "text": "C'est l'homme qui a les mains nettes et le cœur pur, dont l'âme ne se porte pas vers la fausseté, et qui ne jure pas pour tromper."
+    },
+    {
+      "number": 5,
+      "text": "Il recevra la bénédiction de l'Éternel, et la justice de Dieu, son Sauveur."
+    },
+    {
+      "number": 6,
+      "text": "Telle est la race de ceux qui le cherchent, de ceux qui recherchent ta face, la race de Jacob. (Sélah.)"
+    },
+    {
+      "number": 7,
+      "text": "Portes, élevez vos linteaux! Haussez-vous, portes éternelles, et le Roi de gloire entrera."
+    },
+    {
+      "number": 8,
+      "text": "Qui est ce Roi de gloire? L'Éternel, le fort, le puissant, l'Éternel puissant dans les combats."
+    },
+    {
+      "number": 9,
+      "text": "Portes, élevez vos linteaux! Élevez-les, portes éternelles, et le Roi de gloire entrera."
+    },
+    {
+      "number": 10,
+      "text": "Qui est-il, ce Roi de gloire? L'Éternel des armées; c'est lui qui est le Roi de gloire! (Sélah.)"
+    }
+  ]
+}

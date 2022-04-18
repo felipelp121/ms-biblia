@@ -1,0 +1,64 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "bbe"
+  },
+  "chapter": { "number": 56, "verses": 13 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "&lt;To the chief music-maker; put to Jonath elem rehokim. Of David. Michtam. When the Philistines took him in Gath.&gt; Have mercy on me, O God, for man is attempting my destruction; every day he makes cruel attacks against me."
+    },
+    {
+      "number": 2,
+      "text": "My haters are ever ready to put an end to me; great numbers are lifting themselves up against me."
+    },
+    {
+      "number": 3,
+      "text": "In the time of my fear, I will have faith in you."
+    },
+    {
+      "number": 4,
+      "text": "In God will I give praise to his word; in God have I put my hope; I will have no fear of what flesh may do to me."
+    },
+    {
+      "number": 5,
+      "text": "Every day they make wrong use of my words; all their thoughts are against me for evil."
+    },
+    {
+      "number": 6,
+      "text": "They come together, they are waiting in secret places, they take note of my steps, they are waiting for my soul."
+    },
+    {
+      "number": 7,
+      "text": "By evil-doing they will not get free from punishment. In wrath, O God, let the peoples be made low."
+    },
+    {
+      "number": 8,
+      "text": "You have seen my wanderings; put the drops from my eyes into your bottle; are they not in your record?"
+    },
+    {
+      "number": 9,
+      "text": "When I send up my cry to you, my haters will be turned back; I am certain of this, for God is with me."
+    },
+    {
+      "number": 10,
+      "text": "In God will I give praise to his word; in the Lord will I give praise to his word."
+    },
+    {
+      "number": 11,
+      "text": "In God have I put my hope, I will have no fear of what man may do to me."
+    },
+    {
+      "number": 12,
+      "text": "I keep the memory of my debt to you, O God; I will give you the offerings of praise."
+    },
+    {
+      "number": 13,
+      "text": "Because you have taken my soul from the power of death; and kept my feet from falling, so that I may be walking before God in the light of life."
+    }
+  ]
+}

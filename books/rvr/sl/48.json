@@ -1,0 +1,65 @@
+{
+  "book": {
+    "abbrev": { "pt": "sl", "en": "ps" },
+    "name": "Salmos",
+    "author": "David, Moisés, Salomão",
+    "group": "Poéticos",
+    "version": "rvr"
+  },
+  "chapter": { "number": 48, "verses": 14 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "GRANDE es Jehová y digno de ser en gran manera alabado, En la ciudad de nuestro Dios, en el monte de su santuario."
+    },
+    {
+      "number": 2,
+      "text": "Hermosa provincia, el gozo de toda la tierra Es el monte de Sión, á los lados del aquilón, La ciudad del gran Rey."
+    },
+    { "number": 3, "text": "Dios en sus palacios es conocido por refugio." },
+    {
+      "number": 4,
+      "text": "Porque he aquí los reyes de la tierra se reunieron; Pasaron todos."
+    },
+    {
+      "number": 5,
+      "text": "Y viéndola ellos así, maravilláronse, Se turbaron, diéronse priesa á huir."
+    },
+    {
+      "number": 6,
+      "text": "Tomólos allí temblor; Dolor, como á mujer que pare."
+    },
+    {
+      "number": 7,
+      "text": "Con viento solano Quiebras tú las naves de Tharsis."
+    },
+    {
+      "number": 8,
+      "text": "Como lo oímos, así hemos visto En la ciudad de Jehová de los ejércitos, en la ciudad de nuestro Dios: Afirmarála Dios para siempre. (Selah.)"
+    },
+    {
+      "number": 9,
+      "text": "Esperamos tu misericordia, oh Dios, En medio de tu templo."
+    },
+    {
+      "number": 10,
+      "text": "Conforme á tu nombre, oh Dios, Así es tu loor hasta los fines de la tierra: De justicia está llena tu diestra."
+    },
+    {
+      "number": 11,
+      "text": "Alegraráse el monte de Sión; Se gozarán las hijas de Judá Por tus juicios."
+    },
+    {
+      "number": 12,
+      "text": "Andad alrededor de Sión, y rodeadla: Contad sus torres."
+    },
+    {
+      "number": 13,
+      "text": "Poned vuestro corazón á su antemuro, Mirad sus palacios; Para que lo contéis á la generación venidera."
+    },
+    {
+      "number": 14,
+      "text": "Porque este Dios es Dios nuestro eternalmente y para siempre: El nos capitaneará hasta la muerte."
+    }
+  ]
+}

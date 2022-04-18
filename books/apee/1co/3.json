@@ -1,0 +1,101 @@
+{
+  "book": {
+    "abbrev": { "pt": "1co", "en": "1co" },
+    "name": "1ª Coríntios",
+    "author": "Paulo",
+    "group": "Cartas",
+    "version": "apee"
+  },
+  "chapter": { "number": 3, "verses": 23 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Pour moi, frères, je n'ai pu vous parler comme à des hommes spirituels; mais comme à des hommes charnels, comme à de petits enfants en Christ."
+    },
+    {
+      "number": 2,
+      "text": "Je vous ai donné du lait à boire, et non de la viande, car vous n'étiez pas en état de la supporter; maintenant même, vous ne le pouvez pas, parce que vous êtes encore charnels."
+    },
+    {
+      "number": 3,
+      "text": "Car, puisqu'il y a parmi vous de l'envie, des dissensions et des partis, n'êtes-vous pas charnels, et ne vous conduisez-vous pas selon l'homme?"
+    },
+    {
+      "number": 4,
+      "text": "Car lorsque l'un dit: Pour moi, je suis de Paul; et l'autre: Moi, je suis d'Apollos, n'êtes-vous pas charnels?"
+    },
+    {
+      "number": 5,
+      "text": "Qui est donc Paul, et qu'est Apollos, sinon des ministres par le moyen desquels vous avez cru, selon que le Seigneur l'a donné à chacun?"
+    },
+    {
+      "number": 6,
+      "text": "J'ai planté, Apollos a arrosé, mais Dieu a donné l'accroissement."
+    },
+    {
+      "number": 7,
+      "text": "C'est pourquoi ni celui qui plante, ni celui qui arrose, n'est quelque chose, mais Dieu qui donne l'accroissement."
+    },
+    {
+      "number": 8,
+      "text": "Or, celui qui plante et celui qui arrose sont égaux, et chacun recevra sa récompense propre selon son propre travail."
+    },
+    {
+      "number": 9,
+      "text": "Car nous sommes ouvriers avec Dieu; vous êtes le champ de Dieu, l'édifice de Dieu."
+    },
+    {
+      "number": 10,
+      "text": "Selon la grâce de Dieu qui m'a été donnée, j'ai posé le fondement, comme un sage architecte, et un autre bâtit dessus; mais que chacun prenne garde comment il bâtit dessus."
+    },
+    {
+      "number": 11,
+      "text": "Car personne ne peut poser d'autre fondement que celui qui a été posé, lequel est Jésus-Christ."
+    },
+    {
+      "number": 12,
+      "text": "Que si quelqu'un bâtit sur ce fondement avec de l'or, de l'argent, des pierres précieuses, ou du bois, du foin, du chaume, l'œuvre de chacun sera manifestée;"
+    },
+    {
+      "number": 13,
+      "text": "Car le jour la fera connaître, parce qu'elle sera révélée par le feu, et le feu éprouvera ce qu'est l'œuvre de chacun."
+    },
+    {
+      "number": 14,
+      "text": "Si l'œuvre que quelqu'un a bâtie subsiste, il en recevra la récompense."
+    },
+    {
+      "number": 15,
+      "text": "Si l'œuvre de quelqu'un brûle, il en fera la perte; pour lui, il sera sauvé, mais comme au travers le feu."
+    },
+    {
+      "number": 16,
+      "text": "Ne savez-vous pas que vous êtes le temple de Dieu, et que l'Esprit de Dieu habite en vous?"
+    },
+    {
+      "number": 17,
+      "text": "Si quelqu'un pollue le temple de Dieu, Dieu le ravagera de la même manière; car le temple de Dieu est saint, et vous êtes ce temple."
+    },
+    {
+      "number": 18,
+      "text": "Que personne ne se séduise soi-même. Si quelqu'un d'entre vous pense être sage en ce monde, qu'il devienne fou, pour devenir sage;"
+    },
+    {
+      "number": 19,
+      "text": "Car la sagesse de ce monde est une folie devant Dieu; aussi est-il écrit: Il surprend les sages dans leurs ruses."
+    },
+    {
+      "number": 20,
+      "text": "Et encore: Le Seigneur connaît que les pensées des sages sont vaines."
+    },
+    {
+      "number": 21,
+      "text": "Que personne donc ne mette sa gloire dans les hommes, car toutes choses sont à vous;"
+    },
+    {
+      "number": 22,
+      "text": "Soit Paul, soit Apollos, soit Céphas, soit le monde, soit la vie, soit la mort, soit les choses présentes, soit les choses à venir; toutes choses sont à vous,"
+    },
+    { "number": 23, "text": "Et vous êtes à Christ, et Christ est Dieu." }
+  ]
+}

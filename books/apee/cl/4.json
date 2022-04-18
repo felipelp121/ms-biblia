@@ -1,0 +1,84 @@
+{
+  "book": {
+    "abbrev": { "pt": "cl", "en": "cl" },
+    "name": "Colossenses",
+    "author": "Paulo",
+    "group": "Cartas",
+    "version": "apee"
+  },
+  "chapter": { "number": 4, "verses": 18 },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Maîtres, accordez à vos esclaves ce qui est juste et équitable, sachant que vous avez, vous aussi, un Maître dans les cieux."
+    },
+    {
+      "number": 2,
+      "text": "Persévérez dans la prière, y veillant avec actions de grâces;"
+    },
+    {
+      "number": 3,
+      "text": "Priez en même temps pour nous, afin que Dieu nous ouvre une porte pour la Parole, dans le but d'annoncer le mystère de Christ, à cause de qui je suis dans les chaînes;"
+    },
+    {
+      "number": 4,
+      "text": "Et que je le fasse connaître comme il faut que j'en parle."
+    },
+    {
+      "number": 5,
+      "text": "Conduisez-vous avec sagesse envers ceux du dehors, en rachetant le temps."
+    },
+    {
+      "number": 6,
+      "text": "Que votre parole soit toujours accompagnée de grâce, et assaisonnée de sel, de manière que vous sachiez répondre à chacun comme il convient."
+    },
+    {
+      "number": 7,
+      "text": "Tychique, le frère bien-aimé, fidèle ministre, et mon compagnon de service dans le Seigneur, vous apprendra tout ce qui me regarde."
+    },
+    {
+      "number": 8,
+      "text": "Je vous l'ai envoyé exprès, afin qu'il connaisse les choses qui vous concernent, et qu'il console vos cœurs,"
+    },
+    {
+      "number": 9,
+      "text": "Avec Onésime, fidèle et bien-aimé frère, qui est de votre pays; ils vous informeront de tout ce qui se passe ici."
+    },
+    {
+      "number": 10,
+      "text": "Aristarque, mon compagnon de captivité, vous salue, ainsi que Marc, cousin de Barnabas, pour lequel vous avez reçu des ordres; s'il va chez vous, recevez-le."
+    },
+    {
+      "number": 11,
+      "text": "Jésus, surnommé Justus, vous salue aussi. Ils sont de la circoncision, et ce sont les seuls compagnons d'œuvre dans le royaume de Dieu, qui aient été pour moi une consolation."
+    },
+    {
+      "number": 12,
+      "text": "Épaphras, qui est des vôtres, et serviteur de Christ, vous salue; il ne cesse de combattre pour vous dans ses prières, pour que vous soyez parfaits, et accomplis dans toute la volonté de Dieu."
+    },
+    {
+      "number": 13,
+      "text": "Car je lui rends le témoignage, qu'il a un grand zèle pour vous, et pour ceux de Laodicée et de Hiérapolis."
+    },
+    {
+      "number": 14,
+      "text": "Luc, le médecin bien-aimé, vous salue, ainsi que Démas."
+    },
+    {
+      "number": 15,
+      "text": "Saluez les frères de Laodicée, et Nymphas, et l'Église qui est dans sa maison."
+    },
+    {
+      "number": 16,
+      "text": "Et après que cette lettre aura été lue parmi vous, faites en sorte qu'elle soit lue aussi dans l'Église des Laodicéens et que vous lisiez aussi celle de Laodicée."
+    },
+    {
+      "number": 17,
+      "text": "Et dites à Archippe: Considère bien le ministère que tu as reçu du Seigneur, afin de le bien remplir."
+    },
+    {
+      "number": 18,
+      "text": "Moi, Paul, je vous salue de ma propre main. Souvenez-vous de mes liens. La grâce soit avec vous! Amen."
+    }
+  ]
+}
